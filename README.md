@@ -47,6 +47,8 @@ library(here)
 library(skimr)
 library(janitor)
 ```
+#### Set working directory
+
 ```{r}
 getwd()
 setwd("~/Desktop/personal stuff/Analytics/CASE STUDY/Fitabase Data 4.12.16-5.12.16")
@@ -69,7 +71,7 @@ Weight <- read.csv("weightLogInfo_merged.csv")
 head(Weight)
 ```
 
-- Data was reviewed with glimpse()
+### Review data
 
 ```{r}
 glimpse(Activity)
@@ -81,8 +83,8 @@ glimpse(Weight)
 ```
 
 ### Cleaning the data sets
--	Three duplicates were removed from the *sleep data*.
 
+-	Three duplicates were removed from the *sleep data*.
 ```{r}
 dim(Sleep)
 sum(is.na(Sleep))
@@ -90,32 +92,23 @@ sum(duplicated(Sleep))
 Sleep <- Sleep[!duplicated(Sleep), ]
 ```
 -	 Time stamp data formatted.
-
 ```{r}
-# Formatting data set :
-
-# Activity
 Activity$ActivityDate=as.POSIXct(Activity$ActivityDate, format="%m/%d/%Y", tz=Sys.timezone())
 Activity$date <- format(Activity$ActivityDate, format = "%m/%d/%y")
 Activity$ActivityDate=as.Date(Activity$ActivityDate, format="%m/%d/%Y", tz=Sys.timezone())
 Activity$date=as.Date(Activity$date, format="%m/%d/%Y")
 
-
-# Intensities
 Intensities$ActivityDay=as.Date(Intensities$ActivityDay, format="%m/%d/%Y", tz=Sys.timezone())
 
-
-# Sleep
 Sleep$SleepDay=as.POSIXct(Sleep$SleepDay, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone())
 Sleep$date <- format(Sleep$SleepDay, format = "%m/%d/%y")
 Sleep$date=as.Date(Sleep$date, "% m/% d/% y")
 ```
 
 ## Analyze: Putting the data to work.
-
 The tables have a different amount of individuals. Since Weight and Heartrate have less than half of the individuals these tables were not taken into consideration. The analysis is focused on Calories, Intensities, Activity, and Sleep.
-```{r}
 
+```{r}
 Activity %>%
   summarise(Activity_participants = n_distinct(Activity$Id))
 
@@ -126,8 +119,7 @@ n_distinct(Sleep$Id)
 n_distinct(Weight$Id)
 ```
 
-### Statistics of the 4 main dataframes.
-
+### Statistics of the 4 dataframes considered for analysis.
 ```{r}
 Activity %>%  
   select(TotalSteps,
@@ -135,7 +127,6 @@ Activity %>%
          SedentaryMinutes, Calories) %>%
   summary()
 ```
-
 
 ```{r}
 Intensities %>%
@@ -156,7 +147,6 @@ Sleep %>%
 ```
 
 #### Merging data
-
 ```{r}
 Combined_data_inner <- merge(Sleep, Activity, by="Id")
 n_distinct(Combined_data_inner$Id)
@@ -169,13 +159,10 @@ n_distinct(Combined_data_outer$Id)
 
 ### Key Findings
 - Sleep is 7 hours average.
-- The more active the user, more calories burned.
-- Most users are active before and after work hours.
 - The average number of steps taken in a day is 8.329.
 - The average calories burned in a day is 2.362.
 - The average time asleep is 419 min (7 hr).
 - The average sedentary time in a day is 497 min (8hr).
-- Users have only 23 very active minutes in the day.
 
 ## Share: Data visualization.
 
@@ -210,13 +197,8 @@ ggplot(data=Combined_data, aes(x=time, y=ActiveIntensity)) + geom_histogram(stat
 ### Summary Analysis
 - Positive correlation between Total Steps and Calories, the more steps done the more calories burned.
 - The average sedentary time is very high; participants are lightly active.
-- Sleep is 7 hours average.
 - The more active the user, more calories burned.
 - Most users are active before and after work hours.
-- The average number of steps taken in a day is 8.329.
-- The average calories burned in a day is 2.362.
-- The average time asleep is 419 min (7 hr).
-- The average sedentary time in a day is 497 min (8hr).
 - Users have only 23 very active minutes in the day.
 
 ## Act: Conclusions and marketing recommendations
