@@ -78,7 +78,6 @@ glimpse(Intensities)
 glimpse(Heartrate)
 glimpse(Sleep)
 glimpse(Weight)
-
 ```
 
 ### Cleaning the data sets
