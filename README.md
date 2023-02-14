@@ -18,7 +18,7 @@ Bellabeat is a high-tech producer of health-focused products for women, which in
 3.	How could these trends help influence Bellabeat's marketing strategy? 
 4.	Who are the key stakeholders?
 
-*Business Task:* How do Bellabeat customers use their smart devices and what potential opportunities does the marketing team have based on trends in smart device usage.
+*Business Task: How do Bellabeat customers use their smart devices and what potential opportunities does the marketing team have based on trends in smart device usage.*
 
 ## Prepare: Prepare data before manipulation.
 -	Data was downloaded from Kaggle and stored in the case study’s folder.
@@ -203,7 +203,7 @@ ggplot(data=Combined_data, aes(x=time, y=ActiveIntensity)) + geom_histogram(stat
 
 ## Act: Conclusions and marketing recommendations
 
-*Final Conclusion* Most smart device users are sedentary which is not ideal for their health, sleep, and calories burned. This should be changed.
+*Final Conclusion: Most smart device users are sedentary which is not ideal for their health, sleep, and calories burned. This should be changed.*
 
 •	How could your team and business apply your insights? 
 •	What next steps would you or your stakeholders take based on your findings? 
@@ -232,6 +232,6 @@ Obtain more data for an accurate analysis, encouraging users to use a wifi-conne
 
 Educational healthy style campaign encourages users to have short active exercises during the week, longer during the weekends, especially on Sunday where we see the lowest steps and most sedentary minutes.
 
-🎁 Educational healthy style campaign can pair with a point-award incentive system. Users completing the whole week's exercise will receive Bellabeat points on products/memberships.
+ Educational healthy style campaign can pair with a point-award incentive system. Users completing the whole week's exercise will receive Bellabeat points on products/memberships.
 
-🏃‍♂️ The product, such as Leaf wellness tracker, can beat or vibrate after a prolonged period of sedentary minutes, signaling the user it's time to get active! Similarly, it can also remind the user it's time to sleep after sensing a prolonged awake time in bed.
+e product, such as Leaf wellness tracker, can beat or vibrate after a prolonged period of sedentary minutes, signaling the user it's time to get active! Similarly, it can also remind the user it's time to sleep after sensing a prolonged awake time in bed.
