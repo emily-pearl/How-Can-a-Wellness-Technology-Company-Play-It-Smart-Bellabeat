@@ -171,7 +171,8 @@ n_distinct(Combined_data_outer$Id)
 #### Total Steps vs. Sedentary Minutes
 
 ```{r}
-ggplot(data=Activity, aes(x=TotalSteps, y=SedentaryMinutes)) + geom_point() + geom_smooth() + labs(title="Total Steps vs. Sedentary Minutes")
+ggplot(data=Activity, aes(x=TotalSteps, y=SedentaryMinutes)) + 
+  geom_point() + geom_smooth() + labs(title="Total Steps vs. Sedentary Minutes")
 ```
 
 
@@ -207,9 +208,8 @@ ggplot(data=Combined_data, aes(x=time, y=ActiveIntensity)) + geom_histogram(stat
 
 •	How could your team and business apply your insights? 
 •	What next steps would you or your stakeholders take based on your findings? 
-•	Is there additional data you could use to expand on your findings? 
 
-Target Audience
+Target Audience:
 People working full-time jobs and spending a lot of time at the computer and in the office and need fitness and daily activities to be in shape.
 
 The users are doing some light activity to stay healthy (according to the activity type analysis). And they need to improve their everyday activity to have more health benefits. And they might need some knowledge about developing healthy habits and motivation to keep them going.
@@ -235,3 +235,5 @@ Educational healthy style campaign encourages users to have short active exercis
  Educational healthy style campaign can pair with a point-award incentive system. Users completing the whole week's exercise will receive Bellabeat points on products/memberships.
 
 e product, such as Leaf wellness tracker, can beat or vibrate after a prolonged period of sedentary minutes, signaling the user it's time to get active! Similarly, it can also remind the user it's time to sleep after sensing a prolonged awake time in bed.
+
+Additional data
