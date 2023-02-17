@@ -206,15 +206,13 @@ ggplot(data=Combined_data, aes(x=time, y=ActiveIntensity)) + geom_histogram(stat
 
 *Final Conclusion: Most smart device users are sedentary which is not ideal for their health, sleep, and calories burned. This should be changed.*
 
+*Target Audience: Bellabeat tracking devices are ideal for sedentary people like those who have full-time jobs. These devices could help them create healthy habits involving staying fit, frequent movement, and exercise*
+
+Recommendations to the Bellabeat Marketing team
+
 •	How could your team and business apply your insights? 
 •	What next steps would you or your stakeholders take based on your findings? 
 
-Target Audience:
-People working full-time jobs and spending a lot of time at the computer and in the office and need fitness and daily activities to be in shape.
-
-The users are doing some light activity to stay healthy (according to the activity type analysis). And they need to improve their everyday activity to have more health benefits. And they might need some knowledge about developing healthy habits and motivation to keep them going.
-
-Recommendations to the Bellabeat Marketing team
 
 The average sedentary time is too high for the users of the app (more than 16 hours). And definitely needs to be reduced with a good marketing strategy. So, the data shows that the company need to market more to the customer segment with a high Sedentary time. And to do that, the company needs to find ways to get customers started in walking more by measuring their daily steps (+ notifications).
 
@@ -225,8 +223,6 @@ The average total steps per day (which is 7638) is a little bit less than recomm
 By analysing the Intensity data over time. The company will have a good idea on how their customers are using their app during the day. Most users are actif before and after work. The company can use this time in the Bellabeat app to remind and motivate users to go for a run or for a walk.
 
 Sedentary make up a significant portion, 81% of users daily active minutes. Users spend on avg 12 hours a day in sedentary minutes, 4 hours lightly active, and only half-hour in fairly+very active!
-
-Marketing recommendations to expand globally:
 
 Obtain more data for an accurate analysis, encouraging users to use a wifi-connected scale instead of manual weight entries.
 
