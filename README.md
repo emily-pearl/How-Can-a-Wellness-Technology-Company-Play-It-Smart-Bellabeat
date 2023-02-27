@@ -214,4 +214,6 @@ Marketing Recommendations to the Bellabeat Marketing team
 - Offer an education platform so users are informed of the benefits of staying active and sleeping well.
 - App must be updated to apply these changes.
 
-
+Additional Data
+- It is worth looking into other fitness tracker data of just women since this analysis used a very small sample of both genders.
+- Data about needed exercise, calorie intake, and daily sleep for women should be looked into.
