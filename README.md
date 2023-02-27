@@ -208,28 +208,10 @@ ggplot(data=Combined_data, aes(x=time, y=ActiveIntensity)) + geom_histogram(stat
 
 *Target Audience: Bellabeat tracking devices are ideal for sedentary people like those who have full-time jobs. These devices could help them create healthy habits involving staying fit, frequent movement, and exercise*
 
-Recommendations to the Bellabeat Marketing team
+Marketing Recommendations to the Bellabeat Marketing team
+- Update notifications to remind users to stay active and follow a sleep schedule.
+  - Increase in notifications before and after work hours so the users can actually work out.
+- Offer an education platform so users are informed of the benefits of staying active and sleeping well.
+- App must be updated to apply these changes.
 
-•	How could your team and business apply your insights? 
-•	What next steps would you or your stakeholders take based on your findings? 
 
-
-The average sedentary time is too high for the users of the app (more than 16 hours). And definitely needs to be reduced with a good marketing strategy. So, the data shows that the company need to market more to the customer segment with a high Sedentary time. And to do that, the company needs to find ways to get customers started in walking more by measuring their daily steps (+ notifications).
-
-Participants sleep 1 time for an average of 7 hours. To help users improve their sleep, Bellabeat should consider using app notifications to go to bed. And also, the Bellabeat app can recommend reducing sedentary time for its customers.
-
-The average total steps per day (which is 7638) is a little bit less than recommended by the CDC. According to the CDC research, taking 8,000 steps per day was associated with a 51% lower risk for all-cause mortality (or death from all causes). And taking 12,000 steps per day was associated with a 65% lower risk compared with taking 4,000 steps. So, Bellabeat can encourage people to take at least 8,000 steps per day by explaining the healthy benefits of doing that.
-
-By analysing the Intensity data over time. The company will have a good idea on how their customers are using their app during the day. Most users are actif before and after work. The company can use this time in the Bellabeat app to remind and motivate users to go for a run or for a walk.
-
-Sedentary make up a significant portion, 81% of users daily active minutes. Users spend on avg 12 hours a day in sedentary minutes, 4 hours lightly active, and only half-hour in fairly+very active!
-
-Obtain more data for an accurate analysis, encouraging users to use a wifi-connected scale instead of manual weight entries.
-
-Educational healthy style campaign encourages users to have short active exercises during the week, longer during the weekends, especially on Sunday where we see the lowest steps and most sedentary minutes.
-
- Educational healthy style campaign can pair with a point-award incentive system. Users completing the whole week's exercise will receive Bellabeat points on products/memberships.
-
-e product, such as Leaf wellness tracker, can beat or vibrate after a prolonged period of sedentary minutes, signaling the user it's time to get active! Similarly, it can also remind the user it's time to sleep after sensing a prolonged awake time in bed.
-
-Additional data
