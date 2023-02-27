@@ -170,7 +170,7 @@ n_distinct(Combined_data_outer$Id)
 
 #### Total Steps vs. Sedentary Minutes
 
-```{r}
+```{r, echo = TRUE}
 ggplot(data=Activity, aes(x=TotalSteps, y=SedentaryMinutes)) + 
   geom_point() + geom_smooth() + labs(title="Total Steps vs. Sedentary Minutes")
 ```
