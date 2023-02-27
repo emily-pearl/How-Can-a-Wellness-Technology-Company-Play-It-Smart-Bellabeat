@@ -1,0 +1,2364 @@
+---
+analytics-location: /\<user-name\>/\<repo-name\>/blob/show
+apple-itunes-app: app-id=1477376905
+apple-mobile-web-app-title: GitHub
+browser-errors-url: "https://api.github.com/\\_private/browser/errors"
+browser-optimizely-client-errors-url: "https://api.github.com/\\_private/browser/optimizely_client/errors"
+browser-stats-url: "https://api.github.com/\\_private/browser/stats"
+color-scheme: light dark
+description: Case study that analyzes Fitbit data to gain insight on how
+  consumers use their smart devices. -
+  How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/README.md
+  at main ·
+  eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat
+enabled-features: TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS
+expected-hostname: github.com
+github-keyboard-shortcuts: repository,source-code,file-tree
+go-import: "github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat
+  git
+  https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat.git"
+google-site-verification:
+- c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY
+- KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU
+- ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA
+- GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3\_ZWPc
+- Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I
+hostname: github.com
+hovercard-subject-tag: "repository:594047617"
+html-safe-nonce: 537c9fe07e4204ab6c05e7ceb0fbc393240b4fb1605466ff11df52064912811f
+keyboard-shortcuts-preference: all
+lang: en
+octolytics-actor-hash: 6379d39f7125f05b10dd67157c4195052d11830ddaa06222dc4c61f966a990cf
+octolytics-actor-id: 123743836
+octolytics-actor-login: eprbennett
+octolytics-dimension-repository_id: 594047617
+octolytics-dimension-repository_is_fork: "false"
+octolytics-dimension-repository_network_root_id: 594047617
+octolytics-dimension-repository_network_root_nwo: eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat
+octolytics-dimension-repository_nwo: eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat
+octolytics-dimension-repository_public: "true"
+octolytics-dimension-user_id: 123743836
+octolytics-dimension-user_login: eprbennett
+octolytics-url: "https://collector.github.com/github/collect"
+optimizely-datafile: "{\\\"groups\\\": \\[\\], \\\"environmentKey\\\":
+  \\\"production\\\", \\\"rollouts\\\": \\[\\], \\\"typedAudiences\\\": \\[\\],
+  \\\"projectId\\\": \\\"16737760170\\\", \\\"variables\\\": \\[\\], \\\"featureFlags\\\":
+  \\[\\], \\\"experiments\\\": \\[\\], \\\"version\\\": \\\"4\\\", \\\"audiences\\\":
+  \\[{\\\"conditions\\\": \\\"\\[\\\\\\\"or\\\\\\\", {\\\\\\\"match\\\\\\\": \\\\\\\"exact\\\\\\\",
+  \\\\\\\"name\\\\\\\": \\\\\\\"\\$opt_dummy_attribute\\\\\\\", \\\\\\\"type\\\\\\\":
+  \\\\\\\"custom_attribute\\\\\\\", \\\\\\\"value\\\\\\\":
+  \\\\\\\"\\$opt_dummy_value\\\\\\\"}\\]\\\", \\\"id\\\": \\\"\\$opt_dummy_audience\\\",
+  \\\"name\\\": \\\"Optimizely-Generated Audience for Backwards
+  Compatibility\\\"}\\], \\\"anonymizeIP\\\": true, \\\"sdkKey\\\":
+  \\\"WTc6awnGuYDdG98CYRban\\\", \\\"attributes\\\": \\[{\\\"id\\\": \\\"16822470375\\\",
+  \\\"key\\\": \\\"user_id\\\"}, {\\\"id\\\": \\\"17143601254\\\", \\\"key\\\": \\\"spammy\\\"},
+  {\\\"id\\\": \\\"18175660309\\\", \\\"key\\\": \\\"organization_plan\\\"}, {\\\"id\\\":
+  \\\"18813001570\\\", \\\"key\\\": \\\"is_logged_in\\\"}, {\\\"id\\\": \\\"19073851829\\\",
+  \\\"key\\\": \\\"geo\\\"}, {\\\"id\\\": \\\"20175462351\\\", \\\"key\\\":
+  \\\"requestedCurrency\\\"}, {\\\"id\\\": \\\"20785470195\\\", \\\"key\\\":
+  \\\"country_code\\\"}, {\\\"id\\\": \\\"21656311196\\\", \\\"key\\\":
+  \\\"opened_downgrade_dialog\\\"}\\], \\\"botFiltering\\\": false,
+  \\\"accountId\\\": \\\"16737760170\\\", \\\"events\\\": \\[{\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"17911811441\\\", \\\"key\\\":
+  \\\"hydro_click.dashboard.teacher_toolbox_cta\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"18124116703\\\", \\\"key\\\":
+  \\\"submit.organizations.complete_sign_up\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"18145892387\\\", \\\"key\\\":
+  \\\"no_metric.tracked_outside_of_optimizely\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"18178755568\\\", \\\"key\\\":
+  \\\"click.org_onboarding_checklist.add_repo\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"18180553241\\\", \\\"key\\\":
+  \\\"submit.repository_imports.create\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"18186103728\\\", \\\"key\\\":
+  \\\"click.help.learn_more_about_repository_creation\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18188530140\\\", \\\"key\\\":
+  \\\"test_event\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18191963644\\\",
+  \\\"key\\\": \\\"click.empty_org_repo_cta.transfer_repository\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18195612788\\\", \\\"key\\\":
+  \\\"click.empty_org_repo_cta.import_repository\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"18210945499\\\", \\\"key\\\":
+  \\\"click.org_onboarding_checklist.invite_members\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18211063248\\\", \\\"key\\\":
+  \\\"click.empty_org_repo_cta.create_repository\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"18215721889\\\", \\\"key\\\":
+  \\\"click.org_onboarding_checklist.update_profile\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18224360785\\\", \\\"key\\\":
+  \\\"click.org_onboarding_checklist.dismiss\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"18234832286\\\", \\\"key\\\":
+  \\\"submit.organization_activation.complete\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"18252392383\\\", \\\"key\\\":
+  \\\"submit.org_repository.create\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"18257551537\\\", \\\"key\\\": \\\"submit.org_member_invitation.create\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18259522260\\\", \\\"key\\\":
+  \\\"submit.organization_profile.update\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"18564603625\\\", \\\"key\\\":
+  \\\"view.classroom_select_organization\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"18568612016\\\", \\\"key\\\": \\\"click.classroom_sign_in_click\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18572592540\\\", \\\"key\\\":
+  \\\"view.classroom_name\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"18574203855\\\", \\\"key\\\": \\\"click.classroom_create_organization\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18582053415\\\", \\\"key\\\":
+  \\\"click.classroom_select_organization\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"18589463420\\\", \\\"key\\\":
+  \\\"click.classroom_create_classroom\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"18591323364\\\", \\\"key\\\":
+  \\\"click.classroom_create_first_classroom\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"18591652321\\\", \\\"key\\\": \\\"click.classroom_grant_access\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"18607131425\\\", \\\"key\\\":
+  \\\"view.classroom_creation\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"18831680583\\\", \\\"key\\\": \\\"upgrade_account_plan\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"19064064515\\\", \\\"key\\\":
+  \\\"click.signup\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"19075373687\\\",
+  \\\"key\\\": \\\"click.view_account_billing_page\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"19077355841\\\", \\\"key\\\":
+  \\\"click.dismiss_signup_prompt\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"19079713938\\\", \\\"key\\\": \\\"click.contact_sales\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"19120963070\\\", \\\"key\\\":
+  \\\"click.compare_account_plans\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"19151690317\\\", \\\"key\\\": \\\"click.upgrade_account_cta\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"19424193129\\\", \\\"key\\\":
+  \\\"click.open_account_switcher\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"19520330825\\\", \\\"key\\\": \\\"click.visit_account_profile\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"19540970635\\\", \\\"key\\\":
+  \\\"click.switch_account_context\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"19730198868\\\", \\\"key\\\": \\\"submit.homepage_signup\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"19820830627\\\", \\\"key\\\":
+  \\\"click.homepage_signup\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"19988571001\\\", \\\"key\\\": \\\"click.create_enterprise_trial\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20036538294\\\", \\\"key\\\":
+  \\\"click.create_organization_team\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20040653299\\\", \\\"key\\\": \\\"click.input_enterprise_trial_form\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20062030003\\\", \\\"key\\\":
+  \\\"click.continue_with_team\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20068947153\\\", \\\"key\\\": \\\"click.create_organization_free\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20086636658\\\", \\\"key\\\":
+  \\\"click.signup_continue.username\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20091648988\\\", \\\"key\\\": \\\"click.signup_continue.create_account\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20103637615\\\", \\\"key\\\":
+  \\\"click.signup_continue.email\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20111574253\\\", \\\"key\\\": \\\"click.signup_continue.password\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20120044111\\\", \\\"key\\\":
+  \\\"view.pricing_page\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20152062109\\\", \\\"key\\\": \\\"submit.create_account\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20165800992\\\", \\\"key\\\":
+  \\\"submit.upgrade_payment_form\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20171520319\\\", \\\"key\\\": \\\"submit.create_organization\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20222645674\\\", \\\"key\\\":
+  \\\"click.recommended_plan_in_signup.discuss_your_needs\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20227443657\\\", \\\"key\\\":
+  \\\"submit.verify_primary_user_email\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"20234607160\\\", \\\"key\\\":
+  \\\"click.recommended_plan_in_signup.try_enterprise\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20238175784\\\", \\\"key\\\":
+  \\\"click.recommended_plan_in_signup.team\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"20239847212\\\", \\\"key\\\":
+  \\\"click.recommended_plan_in_signup.continue_free\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20251097193\\\", \\\"key\\\":
+  \\\"recommended_plan\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20438619534\\\", \\\"key\\\": \\\"click.pricing_calculator.1_member\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20456699683\\\", \\\"key\\\":
+  \\\"click.pricing_calculator.15_members\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"20467868331\\\", \\\"key\\\":
+  \\\"click.pricing_calculator.10_members\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"20476267432\\\", \\\"key\\\": \\\"click.trial_days_remaining\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20476357660\\\", \\\"key\\\":
+  \\\"click.discover_feature\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20479287901\\\", \\\"key\\\":
+  \\\"click.pricing_calculator.custom_members\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"20481107083\\\", \\\"key\\\":
+  \\\"click.recommended_plan_in_signup.apply_teacher_benefits\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20483089392\\\", \\\"key\\\":
+  \\\"click.pricing_calculator.5_members\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"20484283944\\\", \\\"key\\\": \\\"click.onboarding_task\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20484996281\\\", \\\"key\\\":
+  \\\"click.recommended_plan_in_signup.apply_student_benefits\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20486713726\\\", \\\"key\\\":
+  \\\"click.onboarding_task_breadcrumb\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"20490791319\\\", \\\"key\\\": \\\"click.upgrade_to_enterprise\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20491786766\\\", \\\"key\\\":
+  \\\"click.talk_to_us\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20494144087\\\", \\\"key\\\": \\\"click.dismiss_enterprise_trial\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20499722759\\\", \\\"key\\\":
+  \\\"completed_all_tasks\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20500710104\\\", \\\"key\\\": \\\"completed_onboarding_tasks\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20513160672\\\", \\\"key\\\":
+  \\\"click.read_doc\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20516196762\\\", \\\"key\\\": \\\"actions_enabled\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"20518980986\\\", \\\"key\\\":
+  \\\"click.dismiss_trial_banner\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20535446721\\\", \\\"key\\\":
+  \\\"click.issue_actions_prompt.dismiss_prompt\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"20557002247\\\", \\\"key\\\":
+  \\\"click.issue_actions_prompt.setup_workflow\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"20595070227\\\", \\\"key\\\":
+  \\\"click.pull_request_setup_workflow\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"20626600314\\\", \\\"key\\\": \\\"click.seats_input\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20642310305\\\", \\\"key\\\":
+  \\\"click.decrease_seats_number\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20662990045\\\", \\\"key\\\": \\\"click.increase_seats_number\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20679620969\\\", \\\"key\\\":
+  \\\"click.public_product_roadmap\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20761240940\\\", \\\"key\\\": \\\"click.dismiss_survey_banner\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20767210721\\\", \\\"key\\\":
+  \\\"click.take_survey\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"20795281201\\\", \\\"key\\\": \\\"click.archive_list\\\"}, {\\\"experimentIds\\\":
+  \\[\\], \\\"id\\\": \\\"20966790249\\\", \\\"key\\\": \\\"contact_sales.submit\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"20996500333\\\", \\\"key\\\":
+  \\\"contact_sales.existing_customer\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"20996890162\\\", \\\"key\\\":
+  \\\"contact_sales.blank_message_field\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"21000470317\\\", \\\"key\\\": \\\"contact_sales.personal_email\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21002790172\\\", \\\"key\\\":
+  \\\"contact_sales.blank_phone_field\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"21354412592\\\", \\\"key\\\": \\\"click.dismiss_create_readme\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21366102546\\\", \\\"key\\\":
+  \\\"click.dismiss_zero_user_content\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"21370252505\\\", \\\"key\\\": \\\"account_did_downgrade\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21370840408\\\", \\\"key\\\":
+  \\\"click.cta_create_readme\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"21375451068\\\", \\\"key\\\": \\\"click.cta_create_new_repository\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21385390948\\\", \\\"key\\\":
+  \\\"click.zero_user_content\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"21467712175\\\", \\\"key\\\": \\\"click.downgrade_keep\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21484112202\\\", \\\"key\\\":
+  \\\"click.downgrade\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"21495292213\\\", \\\"key\\\": \\\"click.downgrade_survey_exit\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21508241468\\\", \\\"key\\\":
+  \\\"click.downgrade_survey_submit\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"21512030356\\\", \\\"key\\\": \\\"click.downgrade_support\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21539090022\\\", \\\"key\\\":
+  \\\"click.downgrade_exit\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"21543640644\\\", \\\"key\\\": \\\"click_fetch_upstream\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21646510300\\\", \\\"key\\\":
+  \\\"click.move_your_work\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"21656151116\\\", \\\"key\\\": \\\"click.add_branch_protection_rule\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21663860599\\\", \\\"key\\\":
+  \\\"click.downgrade_dialog_open\\\"}, {\\\"experimentIds\\\": \\[\\], \\\"id\\\":
+  \\\"21687860483\\\", \\\"key\\\": \\\"click.learn_about_protected_branches\\\"},
+  {\\\"experimentIds\\\": \\[\\], \\\"id\\\": \\\"21689050333\\\", \\\"key\\\":
+  \\\"click.dismiss_protect_this_branch\\\"}, {\\\"experimentIds\\\": \\[\\],
+  \\\"id\\\": \\\"21864370109\\\", \\\"key\\\": \\\"click.sign_in\\\"}\\], \\\"revision\\\":
+  \\\"1372\\\"}"
+request-id: "F1F9:8656:6820381:9967798:63FCF76C"
+route-pattern: "/:user_id/:repository/blob/\\*name(/\\*path)"
+theme-color: "#1e2327"
+title: How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/README.md
+  at main ·
+  eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat
+turbo-body-classes: logged-in env-production page-responsive page-blob
+turbo-cache-control: no-preview
+twitter:card: summary_large_image
+twitter:description: Case study that analyzes Fitbit data to gain
+  insight on how consumers use their smart devices. -
+  How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/README.md
+  at main · eprbennett/How-Ca\...
+twitter:image:src: "https://opengraph.githubassets.com/3cb85e77676b01a531fb158a0bb45cfd50f3c215fc604aa18bc7223ddc5fca9c/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat"
+twitter:site: \@github
+twitter:title: How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/README.md
+  at main ·
+  eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat
+user-login: eprbennett
+viewport: width=device-width
+visitor-hmac: ea3efc24311302995c8822ee76994308b370c75bcf05372e8b3bee27d016552e
+visitor-payload: eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkYxRjk6ODY1Njo2ODIwMzgxOjk5Njc3OTg6NjNGQ0Y3NkMiLCJ2aXNpdG9yX2lkIjoiMjc4NzA4NzAwOTcwOTEwOTc2MSIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9
+---
+
+::: {.logged-in .env-production .page-responsive .page-blob turbo-body="" style="word-wrap: break-word;"}
+::: {.position-relative .js-header-wrapper}
+[Skip to content](#start-of-content){.p-3 .color-bg-accent-emphasis
+.color-fg-on-emphasis .show-on-focus .js-skip-to-content} [
+[]{.Progress-item .progress-pjax-loader-bar .left-0 .top-0
+.color-bg-accent-emphasis style="width: 0%;" view-component="true"}
+]{.progress-pjax-loader .Progress .position-fixed .width-full
+view-component="true"}
+
+::: {.Header .js-details-container .Details .px-3 .px-md-4 .px-lg-5 .flex-wrap .flex-md-nowrap role="banner"}
+::: {.Header-item .mt-n1 .mb-n1 .d-none .d-md-flex}
+[![](vertopal_c1308b15e43744389233076cfa7d6cd1/eb3a101f83d514a84e667e9d678a9f4539c79f3b.svg){.octicon
+.octicon-mark-github .v-align-middle}](https://github.com/){.Header-link
+hotkey="g d" aria-label="Homepage " turbo="false"
+analytics-event="{\"category\":\"Header\",\"action\":\"go to dashboard\",\"label\":\"icon:logo\"}"}
+:::
+
+::: {.Header-item .d-md-none}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/dadee4ef3f4f8bcd222ca9b99b4d6c0329e26ed6.svg){.octicon
+.octicon-three-bars}
+:::
+
+::: {.Header-item .Header-item--full .flex-column .flex-md-row .width-full .flex-order-2 .flex-md-order-none .mr-0 .mt-3 .mt-md-0 .Details-content--hidden-not-important .d-md-flex}
+::: {.header-search .flex-auto .position-relative .js-site-search .flex-self-stretch .flex-md-self-auto .mb-3 .mb-md-0 .mr-0 .mr-md-3 .scoped-search .site-scoped-search .js-jump-to}
+::: position-relative
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/b54b55904547a63ceac47e003bc3fe6cc7d349a1.svg){.mr-1
+.header-search-key-slash}
+
+::: {.Box .position-absolute .overflow-hidden .d-none .jump-to-suggestions .js-jump-to-suggestions-container}
+-   [](){.no-underline .d-flex .flex-auto .flex-items-center
+    .jump-to-suggestions-path .js-jump-to-suggestion-path
+    .js-navigation-open .p-2 tabindex="-1" item-type="suggestion"}
+
+    ::: {.jump-to-octicon .js-jump-to-octicon .flex-shrink-0 .mr-2 .text-center .d-none}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/00067279bf37d98b47f36ff7db8e2556f5d558d1.svg){.octicon
+    .octicon-repo .js-jump-to-octicon-repo .d-none .flex-shrink-0}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/7e4a004e95291ebeff08afb0a17279674064113d.svg){.octicon
+    .octicon-project .js-jump-to-octicon-project .d-none .flex-shrink-0}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/bf07a44e2c1aad562a30842684d04d4c30c224df.svg){.octicon
+    .octicon-search .js-jump-to-octicon-search .d-none .flex-shrink-0}
+    :::
+
+    []{.image .placeholder .avatar .mr-2 .flex-shrink-0
+    .js-jump-to-suggestion-avatar .d-none original-image-src=""
+    original-image-title="" aria-label="Team" width="28" height="28"}
+
+    ::: {.jump-to-suggestion-name .js-jump-to-suggestion-name .flex-auto .overflow-hidden .text-left .no-wrap .css-truncate .css-truncate-target}
+    :::
+
+    ::: {.border .rounded-2 .flex-shrink-0 .color-bg-subtle .px-1 .color-fg-muted .ml-1 .f6 .d-none .js-jump-to-badge-search}
+    [ In this repository ]{.js-jump-to-badge-search-text-default .d-none
+    aria-label="in this repository"} [ All GitHub
+    ]{.js-jump-to-badge-search-text-global .d-none
+    aria-label="in all of GitHub"} [↵]{.d-inline-block .ml-1
+    .v-align-middle aria-hidden="true"}
+    :::
+
+    ::: {.border .rounded-2 .flex-shrink-0 .color-bg-subtle .px-1 .color-fg-muted .ml-1 .f6 .d-none .d-on-nav-focus .js-jump-to-badge-jump aria-hidden="true"}
+    Jump to [↵]{.d-inline-block .ml-1 .v-align-middle}
+    :::
+
+```{=html}
+<!-- -->
+```
+-   [No suggested jump to results]{.color-fg-muted}
+
+```{=html}
+<!-- -->
+```
+-   [](){.no-underline .d-flex .flex-auto .flex-items-center
+    .jump-to-suggestions-path .js-jump-to-suggestion-path
+    .js-navigation-open .p-2 tabindex="-1" item-type="scoped_search"}
+
+    ::: {.jump-to-octicon .js-jump-to-octicon .flex-shrink-0 .mr-2 .text-center .d-none}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/00067279bf37d98b47f36ff7db8e2556f5d558d1.svg){.octicon
+    .octicon-repo .js-jump-to-octicon-repo .d-none .flex-shrink-0}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/7e4a004e95291ebeff08afb0a17279674064113d.svg){.octicon
+    .octicon-project .js-jump-to-octicon-project .d-none .flex-shrink-0}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/bf07a44e2c1aad562a30842684d04d4c30c224df.svg){.octicon
+    .octicon-search .js-jump-to-octicon-search .d-none .flex-shrink-0}
+    :::
+
+    []{.image .placeholder .avatar .mr-2 .flex-shrink-0
+    .js-jump-to-suggestion-avatar .d-none original-image-src=""
+    original-image-title="" aria-label="Team" width="28" height="28"}
+
+    ::: {.jump-to-suggestion-name .js-jump-to-suggestion-name .flex-auto .overflow-hidden .text-left .no-wrap .css-truncate .css-truncate-target}
+    :::
+
+    ::: {.border .rounded-2 .flex-shrink-0 .color-bg-subtle .px-1 .color-fg-muted .ml-1 .f6 .d-none .js-jump-to-badge-search}
+    [ In this repository ]{.js-jump-to-badge-search-text-default .d-none
+    aria-label="in this repository"} [ All GitHub
+    ]{.js-jump-to-badge-search-text-global .d-none
+    aria-label="in all of GitHub"} [↵]{.d-inline-block .ml-1
+    .v-align-middle aria-hidden="true"}
+    :::
+
+    ::: {.border .rounded-2 .flex-shrink-0 .color-bg-subtle .px-1 .color-fg-muted .ml-1 .f6 .d-none .d-on-nav-focus .js-jump-to-badge-jump aria-hidden="true"}
+    Jump to [↵]{.d-inline-block .ml-1 .v-align-middle}
+    :::
+-   [](){.no-underline .d-flex .flex-auto .flex-items-center
+    .jump-to-suggestions-path .js-jump-to-suggestion-path
+    .js-navigation-open .p-2 tabindex="-1"
+    item-type="owner_scoped_search"}
+
+    ::: {.jump-to-octicon .js-jump-to-octicon .flex-shrink-0 .mr-2 .text-center .d-none}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/00067279bf37d98b47f36ff7db8e2556f5d558d1.svg){.octicon
+    .octicon-repo .js-jump-to-octicon-repo .d-none .flex-shrink-0}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/7e4a004e95291ebeff08afb0a17279674064113d.svg){.octicon
+    .octicon-project .js-jump-to-octicon-project .d-none .flex-shrink-0}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/bf07a44e2c1aad562a30842684d04d4c30c224df.svg){.octicon
+    .octicon-search .js-jump-to-octicon-search .d-none .flex-shrink-0}
+    :::
+
+    []{.image .placeholder .avatar .mr-2 .flex-shrink-0
+    .js-jump-to-suggestion-avatar .d-none original-image-src=""
+    original-image-title="" aria-label="Team" width="28" height="28"}
+
+    ::: {.jump-to-suggestion-name .js-jump-to-suggestion-name .flex-auto .overflow-hidden .text-left .no-wrap .css-truncate .css-truncate-target}
+    :::
+
+    ::: {.border .rounded-2 .flex-shrink-0 .color-bg-subtle .px-1 .color-fg-muted .ml-1 .f6 .d-none .js-jump-to-badge-search}
+    [ In this user ]{.js-jump-to-badge-search-text-default .d-none
+    aria-label="in this user"} [ All GitHub
+    ]{.js-jump-to-badge-search-text-global .d-none
+    aria-label="in all of GitHub"} [↵]{.d-inline-block .ml-1
+    .v-align-middle aria-hidden="true"}
+    :::
+
+    ::: {.border .rounded-2 .flex-shrink-0 .color-bg-subtle .px-1 .color-fg-muted .ml-1 .f6 .d-none .d-on-nav-focus .js-jump-to-badge-jump aria-hidden="true"}
+    Jump to [↵]{.d-inline-block .ml-1 .v-align-middle}
+    :::
+-   [](){.no-underline .d-flex .flex-auto .flex-items-center
+    .jump-to-suggestions-path .js-jump-to-suggestion-path
+    .js-navigation-open .p-2 tabindex="-1" item-type="global_search"}
+
+    ::: {.jump-to-octicon .js-jump-to-octicon .flex-shrink-0 .mr-2 .text-center .d-none}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/00067279bf37d98b47f36ff7db8e2556f5d558d1.svg){.octicon
+    .octicon-repo .js-jump-to-octicon-repo .d-none .flex-shrink-0}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/7e4a004e95291ebeff08afb0a17279674064113d.svg){.octicon
+    .octicon-project .js-jump-to-octicon-project .d-none .flex-shrink-0}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/bf07a44e2c1aad562a30842684d04d4c30c224df.svg){.octicon
+    .octicon-search .js-jump-to-octicon-search .d-none .flex-shrink-0}
+    :::
+
+    []{.image .placeholder .avatar .mr-2 .flex-shrink-0
+    .js-jump-to-suggestion-avatar .d-none original-image-src=""
+    original-image-title="" aria-label="Team" width="28" height="28"}
+
+    ::: {.jump-to-suggestion-name .js-jump-to-suggestion-name .flex-auto .overflow-hidden .text-left .no-wrap .css-truncate .css-truncate-target}
+    :::
+
+    ::: {.border .rounded-2 .flex-shrink-0 .color-bg-subtle .px-1 .color-fg-muted .ml-1 .f6 .d-none .js-jump-to-badge-search}
+    [ In this repository ]{.js-jump-to-badge-search-text-default .d-none
+    aria-label="in this repository"} [ All GitHub
+    ]{.js-jump-to-badge-search-text-global .d-none
+    aria-label="in all of GitHub"} [↵]{.d-inline-block .ml-1
+    .v-align-middle aria-hidden="true"}
+    :::
+
+    ::: {.border .rounded-2 .flex-shrink-0 .color-bg-subtle .px-1 .color-fg-muted .ml-1 .f6 .d-none .d-on-nav-focus .js-jump-to-badge-jump aria-hidden="true"}
+    Jump to [↵]{.d-inline-block .ml-1 .v-align-middle}
+    :::
+-   ![](vertopal_c1308b15e43744389233076cfa7d6cd1/abb38586512f772d6559d3642a09f874fd4c4241.svg){.m-3
+    .anim-rotate}
+:::
+:::
+:::
+
+[Dashboard](/dashboard){.Header-link .py-md-3 .d-block .d-md-none .py-2
+.border-top .border-md-top-0 .border-white-fade
+ga-click="Header, click, Nav menu - item:dashboard:user"
+aria-label="Dashboard" turbo="false"} [Pull[ request]{.d-inline
+.d-md-none .d-lg-inline}s](/pulls){.js-selected-navigation-item
+.Header-link .mt-md-n3 .mb-md-n3 .py-2 .py-md-3 .mr-0 .mr-md-3
+.border-top .border-md-top-0 .border-white-fade hotkey="g p"
+ga-click="Header, click, Nav menu - item:pulls context:user"
+aria-label="Pull requests you created" turbo="false"
+selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls"}
+[Issues](/issues){.js-selected-navigation-item .Header-link .mt-md-n3
+.mb-md-n3 .py-2 .py-md-3 .mr-0 .mr-md-3 .border-top .border-md-top-0
+.border-white-fade hotkey="g i"
+ga-click="Header, click, Nav menu - item:issues context:user"
+aria-label="Issues you created" turbo="false"
+selected-links="/issues /issues/assigned /issues/mentioned /issues"}
+[Codespaces](/codespaces){.js-selected-navigation-item .Header-link
+.mt-md-n3 .mb-md-n3 .py-2 .py-md-3 .mr-0 .mr-md-3 .border-top
+.border-md-top-0 .border-white-fade
+ga-click="Header, click, Nav menu - item:workspaces context:user"
+turbo="false" selected-links="/codespaces /codespaces"}
+
+::: {.d-flex .position-relative}
+[Marketplace](/marketplace){.js-selected-navigation-item .Header-link
+.flex-auto .mt-md-n3 .mb-md-n3 .py-2 .py-md-3 .mr-0 .mr-md-3 .border-top
+.border-md-top-0 .border-white-fade
+ga-click="Header, click, Nav menu - item:marketplace context:user"
+octo-click="marketplace_click" octo-dimensions="location:nav_bar"
+turbo="false" selected-links=" /marketplace"}
+:::
+
+[Explore](/explore){.js-selected-navigation-item .Header-link .mt-md-n3
+.mb-md-n3 .py-2 .py-md-3 .mr-0 .mr-md-3 .border-top .border-md-top-0
+.border-white-fade ga-click="Header, click, Nav menu - item:explore"
+turbo="false"
+selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore"}
+[Sponsors](/sponsors/accounts){.js-selected-navigation-item .Header-link
+.d-block .d-md-none .py-2 .py-md-3 .border-top .border-md-top-0
+.border-white-fade ga-click="Header, click, Nav menu - item:Sponsors"
+hydro-click="{\"event_type\":\"sponsors.button_click\",\"payload\":{\"button\":\"HEADER_SPONSORS_DASHBOARD\",\"sponsorable_login\":\"eprbennett\",\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="92cf91ad49b47133ca3183398136f682a1782256bf019ef011c964bb6fca6ed2"
+turbo="false" selected-links=" /sponsors/accounts"}
+[Settings](/settings/profile){.Header-link .d-block .d-md-none .mr-0
+.mr-md-3 .py-2 .py-md-3 .border-top .border-md-top-0 .border-white-fade
+turbo="false"}
+[![\@eprbennett](vertopal_c1308b15e43744389233076cfa7d6cd1/b7156500d63e52ab5b3f2502df750209a7536971.png){.avatar
+.avatar-user loading="lazy" decoding="async" width="20" height="20"}
+eprbennett](/eprbennett){.Header-link .d-block .d-md-none .mr-0 .mr-md-3
+.py-2 .py-md-3 .border-top .border-md-top-0 .border-white-fade
+turbo="false"}
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/a9ed1ab3b8e55602a25888f5be2148a70684990f.svg){.octicon
+.octicon-sign-out .v-align-middle} Sign out
+:::
+
+::: {.Header-item .Header-item--full .flex-justify-center .d-md-none .position-relative}
+[![](vertopal_c1308b15e43744389233076cfa7d6cd1/eb3a101f83d514a84e667e9d678a9f4539c79f3b.svg){.octicon
+.octicon-mark-github .v-align-middle}](https://github.com/){.Header-link
+hotkey="g d" aria-label="Homepage " turbo="false"
+analytics-event="{\"category\":\"Header\",\"action\":\"go to dashboard\",\"label\":\"icon:logo\"}"}
+:::
+
+::: {.Header-item .mr-0 .mr-md-3 .flex-order-1 .flex-md-order-none}
+[[ ]{.mail-status .unread data-target="notification-indicator.badge"
+hidden=""}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/5439b3fbd995e721ea7ba4def5558452fde24b2c.svg){.octicon
+.octicon-bell}](/notifications){#AppHeader-notifications-button
+.Header-link .notification-indicator .position-relative .tooltipped
+.tooltipped-sw hotkey="g n" data-target="notification-indicator.link"
+aria-label="Notifications"
+analytics-event="{\"category\":\"Header\",\"action\":\"go to notifications\",\"label\":\"icon:read\"}"}
+:::
+
+::: {.Header-item .position-relative .d-none .d-md-flex}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/9ba5273029b8c12dd084d6bb667a683382236577.svg){.octicon
+.octicon-plus} []{.dropdown-caret}
+
+[New repository](/new){.dropdown-item role="menuitem"
+ga-click="Header, create new repository"} [Import
+repository](/new/import){.dropdown-item role="menuitem"
+ga-click="Header, import a repository"} [New
+codespace](/codespaces/new){.dropdown-item role="menuitem"} [New
+gist](https://gist.github.com/){.dropdown-item role="menuitem"
+ga-click="Header, create new gist"} [New
+organization](/organizations/new){.dropdown-item role="menuitem"
+ga-click="Header, create new organization"}
+:::
+
+::: {.Header-item .position-relative .mr-0 .d-none .d-md-flex}
+![\@eprbennett](vertopal_c1308b15e43744389233076cfa7d6cd1/b7156500d63e52ab5b3f2502df750209a7536971.png){.avatar
+.avatar-small .circle size="20" height="20" width="20"
+view-component="true"} []{.unread-indicator
+.js-feature-preview-indicator style="top: 1px;" hidden=""}
+[]{.dropdown-caret}
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/459e574b19f4ba9998dd2caff4c956aa7991019c.svg){.anim-rotate}
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/fb3ef82b8a6fc0dc84391d68190c01cf02f1e142.svg){.octicon
+.octicon-alert} Sorry, something went wrong.
+:::
+:::
+:::
+
+::: {#start-of-content .show-on-focus}
+:::
+
+::: {#js-flash-container turbo-replace=""}
+::: {.flash .flash-full .{{ .className .}}}
+::: px-2
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+.octicon-x}
+
+::: {.js-flash-alert aria-atomic="true" role="alert"}
+<div>
+
+{{ message }}
+
+</div>
+:::
+:::
+:::
+:::
+
+::: {hidden="" initial="" data-target="notification-shelf-watcher.placeholder"}
+:::
+
+::: {.js-search-icon .d-flex .flex-items-center .mr-2 style="height: 26px"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/5139b7e3e05d184625ae76f7e38f2446bd337c48.svg){.octicon
+.octicon-search .color-fg-muted}
+:::
+
+::: {.js-spinner .d-flex .flex-items-center .mr-2 .color-fg-muted hidden=""}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/4506c391bcbaab86ff4380575d1c5c4b3f405898.svg){.anim-rotate}
+:::
+
+::: {.color-fg-subtle data-target="command-palette-scope.placeholder" hidden=""}
+/  [\...]{.text-semibold .color-fg-default}  /  
+:::
+
+eprbennett[  /  ]{.color-fg-subtle .text-normal}
+How-Can-a-Wellnes\...[  /  ]{.color-fg-subtle .text-normal}
+
+::: {.command-palette-input-group .flex-1 .form-control .border-0 .box-shadow-none style="z-index: 0"}
+::: {.command-palette-typeahead .position-absolute .d-flex .flex-items-center .Truncate}
+[]{.typeahead-segment .input-mirror
+data-target="command-palette-input.mirror"} []{.Truncate-text
+data-target="command-palette-input.typeaheadText"} []{.typeahead-segment
+data-target="command-palette-input.typeaheadPlaceholder"}
+:::
+:::
+
+::: {.position-relative .d-inline-block view-component="true"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/e92c674884f221ea344586213653bc4a8a5a3b1c.svg){.octicon
+.octicon-x-circle-fill}
+
+Clear Command Palette
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type [\#]{.kbd .hx_kbd} to search pull requests
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type [\#]{.kbd .hx_kbd} to search issues
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type [\#]{.kbd .hx_kbd} to search discussions
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type [!]{.kbd .hx_kbd} to search projects
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type [@]{.kbd .hx_kbd} to search teams
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type [@]{.kbd .hx_kbd} to search people and
+organizations
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type [\>]{.kbd .hx_kbd} to activate command mode
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Go to your accessibility settings to change your
+keyboard shortcuts
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type author:@me to search your content
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type is:pr to filter to pull requests
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type is:issue to filter to issues
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type is:project to filter to projects
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+::: {.d-flex .flex-items-start .flex-justify-between}
+<div>
+
+[Tip:]{.text-bold} Type is:open to filter to open content
+
+</div>
+
+::: {.ml-2 .flex-shrink-0}
+Type [?]{.kbd .hx_kbd} for help and tips
+:::
+:::
+
+<div>
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/fb3ef82b8a6fc0dc84391d68190c01cf02f1e142.svg){.octicon
+.octicon-alert}
+
+</div>
+
+::: px-2
+We've encountered an error and some results aren\'t available at this
+time. Type a new search or try again later.
+:::
+
+No results matched your search
+
+::: {hidden=""}
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="arrow-right-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/3532041f9c5cdad29807aa6980a1ad27c536b707.svg){.octicon
+.octicon-arrow-right .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="arrow-right-color-fg-default"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/0ea658b4c123d7bbc32353e3c4ed7da76d92f4fc.svg){.octicon
+.octicon-arrow-right .color-fg-default}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="codespaces-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/29906479f4a5c33cb42e9e3eac376ead0104502c.svg){.octicon
+.octicon-codespaces .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="copy-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/289bbc41f2ca353c280a320ad33de872622c8e8b.svg){.octicon
+.octicon-copy .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="dash-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/34f6e6a572a72443abae6619cd35551615217a62.svg){.octicon
+.octicon-dash .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="file-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/ef165d7bb19f9982814b8435c7a47bdd0e6b1711.svg){.octicon
+.octicon-file .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="gear-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/28a0c502e54c6dcf74fe0678a6d5b07f194bf856.svg){.octicon
+.octicon-gear .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="lock-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/02d016aa9877a918078c0d8248f917bf85ec7737.svg){.octicon
+.octicon-lock .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="moon-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/a64005d829f1872304822c39aa6ad8e96738b342.svg){.octicon
+.octicon-moon .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="person-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/38d45a374bf3bb4230f957ef146df9475adf190e.svg){.octicon
+.octicon-person .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="pencil-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/0ad9814d2c320dee5928abbbdf6613e106f4317f.svg){.octicon
+.octicon-pencil .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="issue-opened-open"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/42d57d7994056c6740cefcb2df278e2cdf95dccb.svg){.octicon
+.octicon-issue-opened .open}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="git-pull-request-draft-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/4ba784c3d7646f7a79ca7e81f4c4f4f35e90a988.svg){.octicon
+.octicon-git-pull-request-draft .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="search-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/9282681cb4164bb686d18c8246b8bd48b79c2304.svg){.octicon
+.octicon-search .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="sun-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/2b739d742b4bec1a6a5880145e00ef13eabf685e.svg){.octicon
+.octicon-sun .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="sync-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/40edba24174b3327720847b0dc601aa8944f89de.svg){.octicon
+.octicon-sync .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="trash-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/d5e8e5d59c45e5ea4bb23e2cab9de361ec551d52.svg){.octicon
+.octicon-trash .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="key-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/005bdee18e28a02985f8c86ea38b2b953eb52684.svg){.octicon
+.octicon-key .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="comment-discussion-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/c9205cc911558edbc77c599a0f83b510da55e5b6.svg){.octicon
+.octicon-comment-discussion .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="bell-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/fd17776a339dcabefc133951f36734ff882162f1.svg){.octicon
+.octicon-bell .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="bell-slash-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/ffbea774358ca41ed84072f9b221796ace43b807.svg){.octicon
+.octicon-bell-slash .color-fg-muted}
+:::
+
+::: {targets="command-palette-page-stack.localOcticons" octicon-id="paintbrush-color-fg-muted"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/bbf6ded828314e37006e33b15074b6b590eee099.svg){.octicon
+.octicon-paintbrush .color-fg-muted}
+:::
+:::
+
+[Search for **issues** and **pull
+requests**]{data-target="command-palette-help.titleElement"} [ [\#]{.kbd
+.hx_kbd} ]{data-target="command-palette-help.hintElement"} [Search for
+**issues, pull requests, discussions,** and
+**projects**]{data-target="command-palette-help.titleElement"} [
+[\#]{.kbd .hx_kbd} ]{data-target="command-palette-help.hintElement"}
+[Search for **organizations, repositories,** and
+**users**]{data-target="command-palette-help.titleElement"} [ [@]{.kbd
+.hx_kbd} ]{data-target="command-palette-help.hintElement"} [Search for
+**projects**]{data-target="command-palette-help.titleElement"} [
+[!]{.kbd .hx_kbd} ]{data-target="command-palette-help.hintElement"}
+[Search for **files**]{data-target="command-palette-help.titleElement"}
+[ [/]{.kbd .hx_kbd} ]{data-target="command-palette-help.hintElement"}
+[Activate **command
+mode**]{data-target="command-palette-help.titleElement"} [ [\>]{.kbd
+.hx_kbd} ]{data-target="command-palette-help.hintElement"} [Search your
+issues, pull requests, and
+discussions]{data-target="command-palette-help.titleElement"} [ [\#
+author:@me]{.kbd .hx_kbd}
+]{data-target="command-palette-help.hintElement"} [Search your issues,
+pull requests, and
+discussions]{data-target="command-palette-help.titleElement"} [ [\#
+author:@me]{.kbd .hx_kbd}
+]{data-target="command-palette-help.hintElement"} [Filter to pull
+requests]{data-target="command-palette-help.titleElement"} [ [\#
+is:pr]{.kbd .hx_kbd} ]{data-target="command-palette-help.hintElement"}
+[Filter to issues]{data-target="command-palette-help.titleElement"} [
+[\# is:issue]{.kbd .hx_kbd}
+]{data-target="command-palette-help.hintElement"} [Filter to
+discussions]{data-target="command-palette-help.titleElement"} [ [\#
+is:discussion]{.kbd .hx_kbd}
+]{data-target="command-palette-help.hintElement"} [Filter to
+projects]{data-target="command-palette-help.titleElement"} [ [\#
+is:project]{.kbd .hx_kbd}
+]{data-target="command-palette-help.hintElement"} [Filter to open
+issues, pull requests, and
+discussions]{data-target="command-palette-help.titleElement"} [ [\#
+is:open]{.kbd .hx_kbd} ]{data-target="command-palette-help.hintElement"}
+
+::: {.position-fixed .bottom-0 .left-0 .ml-5 .mb-5 .js-command-palette-toasts style="z-index: 1000"}
+::: {.Toast .Toast--loading hidden=""}
+[
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/f68c3070d7e5f334219226883a68e3f316f9e028.svg){.Toast--spinner}
+]{.Toast-icon} []{.Toast-content}
+:::
+
+::: {.anim-fade-in .fast .Toast .Toast--error hidden=""}
+[
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/8bb62cc28fa00c33848e354903b87e464b3d796b.svg){.octicon
+.octicon-stop} ]{.Toast-icon} []{.Toast-content}
+:::
+
+::: {.anim-fade-in .fast .Toast .Toast--warning hidden=""}
+[
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/fb3ef82b8a6fc0dc84391d68190c01cf02f1e142.svg){.octicon
+.octicon-alert} ]{.Toast-icon} []{.Toast-content}
+:::
+
+::: {.anim-fade-in .fast .Toast .Toast--success hidden=""}
+[
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/5e059fbf85c13531eb4ec2432c8e3980c78ad9ed.svg){.octicon
+.octicon-check} ]{.Toast-icon} []{.Toast-content}
+:::
+
+::: {.anim-fade-in .fast .Toast hidden=""}
+[
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/43a04af889d3ddcadbb49d8568b3629418458e6f.svg){.octicon
+.octicon-info} ]{.Toast-icon} []{.Toast-content}
+:::
+:::
+
+::: {.application-main commit-hovercards-enabled="" discussion-hovercards-enabled="" issue-and-pr-hovercards-enabled=""}
+::: {itemscope="" itemtype="http://schema.org/SoftwareSourceCode"}
+::: {#js-repo-pjax-container role="main"}
+::: {#repository-container-header .pt-3 .hide-full-screen style="background-color: var(--color-page-header-bg);" turbo-replace=""}
+::: {.d-flex .flex-wrap .flex-justify-end .mb-3 .px-3 .px-md-4 .px-lg-5 style="gap: 1rem;"}
+::: {.flex-auto .min-width-0 .width-fit .mr-3}
+::: {.d-flex .flex-wrap .flex-items-center .wb-break-word .f3 .text-normal}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/6dfaeee4f4f121860e331178d83cee83c8151a9c.svg){.octicon
+.octicon-repo .color-fg-muted .mr-2} [ [eprbennett](/eprbennett){.url
+.fn rel="author" hovercard-type="user"
+hovercard-url="/users/eprbennett/hovercard"
+octo-click="hovercard-link-click" octo-dimensions="link_type:self"}
+]{.author .flex-self-stretch itemprop="author"} [/]{.mx-1
+.flex-self-stretch .color-fg-muted}
+**[How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat){pjax="#repo-content-pjax-container"
+turbo-frame="repo-content-turbo-frame"}** [Public]{.Label
+.Label--secondary .v-align-middle .mr-1}
+:::
+:::
+
+-   ::: float-left
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/379014467819a5ab09fa41fb9f8de8a26edb2257.svg){.octicon
+    .octicon-pin .mr-2}Pin
+    :::
+
+-   [ [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/6afa650bd95c84ffa41854ba26df4717b211fbee.svg){.octicon
+    .octicon-eye} Unwatch
+    ]{data-target="notifications-list-subscription-form.unwatchButtonCopy"}
+    [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/a4d7ffb892b99afeb1b32fc4e1c83c7b52fbeda1.svg){.octicon
+    .octicon-bell-slash} Stop ignoring ]{hidden=""
+    data-target="notifications-list-subscription-form.stopIgnoringButtonCopy"}
+    [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/6afa650bd95c84ffa41854ba26df4717b211fbee.svg){.octicon
+    .octicon-eye} Watch ]{hidden=""
+    data-target="notifications-list-subscription-form.watchButtonCopy"}
+    ]{menu-button=""} [1]{#repo-notifications-counter .Counter
+    data-target="notifications-list-subscription-form.socialCount"
+    pjax-replace="true" turbo-replace="true" title="1"
+    view-component="true"} []{.dropdown-caret}
+
+    ::: {.SelectMenu-modal .notifications-component-menu-modal}
+    ::: SelectMenu-header
+    ### Notifications {#notifications .SelectMenu-title}
+
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+    .octicon-x}
+    :::
+
+    ::: SelectMenu-list
+    [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/cbb2d575ac2d34c26703df10dbcfea606e12095c.svg){.octicon
+    .octicon-check .SelectMenu-icon .SelectMenu-icon--check} ]{.f5}
+
+    <div>
+
+    ::: {.f5 .text-bold}
+    Participating and \@mentions
+    :::
+
+    ::: {.text-small .color-fg-muted .text-normal .pb-1}
+    Only receive notifications from this repository when participating
+    or \@mentioned.
+    :::
+
+    </div>
+
+    [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/cbb2d575ac2d34c26703df10dbcfea606e12095c.svg){.octicon
+    .octicon-check .SelectMenu-icon .SelectMenu-icon--check} ]{.f5}
+
+    <div>
+
+    ::: {.f5 .text-bold}
+    All Activity
+    :::
+
+    ::: {.text-small .color-fg-muted .text-normal .pb-1}
+    Notified of all notifications on this repository.
+    :::
+
+    </div>
+
+    [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/cbb2d575ac2d34c26703df10dbcfea606e12095c.svg){.octicon
+    .octicon-check .SelectMenu-icon .SelectMenu-icon--check} ]{.f5}
+
+    <div>
+
+    ::: {.f5 .text-bold}
+    Ignore
+    :::
+
+    ::: {.text-small .color-fg-muted .text-normal .pb-1}
+    Never be notified.
+    :::
+
+    </div>
+
+    [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/cbb2d575ac2d34c26703df10dbcfea606e12095c.svg){.octicon
+    .octicon-check .SelectMenu-icon .SelectMenu-icon--check} ]{.f5}
+
+    <div>
+
+    ::: {.d-flex .flex-items-start .flex-justify-between}
+    ::: {.f5 .text-bold}
+    Custom
+    :::
+
+    ::: {.f5 .pr-1}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/fbdff8586eccfa1906afd9c816d7528bf4b41335.svg){.octicon
+    .octicon-arrow-right}
+    :::
+    :::
+
+    ::: {.text-small .color-fg-muted .text-normal .pb-1}
+    Select events you want to be notified of in addition to
+    participating and \@mentions.
+    :::
+
+    </div>
+
+    ::: {.px-3 .py-2 .d-flex .color-bg-subtle .flex-items-center}
+    [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/46f829c7a7a2c7d3e08ab41331ecb99be6ef35ae.svg){.octicon
+    .octicon-device-mobile .SelectMenu-icon
+    .SelectMenu-icon--device-mobile} ]{.f5} [ Get push notifications on
+    [iOS](https://apps.apple.com/app/apple-store/id1477376905?ct=watch-dropdown&mt=8&pt=524675){target="_blank"
+    rel="noopener noreferrer"} or
+    [Android](https://play.google.com/store/apps/details?id=com.github.android&referrer=utm_campaign%3Dwatch-dropdown%26utm_medium%3Dweb%26utm_source%3Dgithub){target="_blank"
+    rel="noopener noreferrer"}.
+    ]{classname="text-small color-fg-muted text-normal pb-1"}
+    :::
+    :::
+    :::
+
+    ::: {.SelectMenu-modal .notifications-component-dialog-modal .overflow-visible}
+    ::: {.d-sm-none .SelectMenu-header .pb-0 .border-bottom-0 .px-2 .px-sm-3}
+    # ![](vertopal_c1308b15e43744389233076cfa7d6cd1/ffa098c9a57f4083a3342da63a14bcdbcee8ab32.svg){.octicon .octicon-arrow-left} Custom {#custom .f3 .SelectMenu-title .d-inline-flex}
+    :::
+
+    ::: {.d-none .d-sm-flex .flex-items-start .pt-1}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/78affd661a5374282cc2befcd4e86703a4ec5f74.svg){.octicon
+    .octicon-arrow-left}
+    # Custom {#custom-1 .pt-1 .pr-4 .pb-0 .pl-0 .f5 .text-bold}
+    :::
+
+    ::: {.text-small .color-fg-muted .pt-0 .pr-3 .pb-3 .pl-6 .pl-sm-5 .border-bottom .mb-3}
+    Select events you want to be notified of in addition to
+    participating and \@mentions.
+    :::
+
+    ::: {data-target="notifications-list-subscription-form.labelInputs"}
+    :::
+
+    ::: {.form-checkbox .mr-3 .ml-6 .ml-sm-5 .mb-2 .mt-0}
+    Issues
+    :::
+
+    ::: {.form-checkbox .mr-3 .ml-6 .ml-sm-5 .mb-2 .mt-0}
+    Pull requests
+    :::
+
+    ::: {.form-checkbox .mr-3 .ml-6 .ml-sm-5 .mb-2 .mt-0}
+    Releases
+    :::
+
+    ::: {.form-checkbox .mr-3 .ml-6 .ml-sm-5 .mb-2 .mt-0}
+    Discussions
+
+    ::: {#Discussion-disabled .color-fg-muted}
+    Discussions are not enabled for this repository
+    :::
+    :::
+
+    ::: {.form-checkbox .mr-3 .ml-6 .ml-sm-5 .mb-2 .mt-0}
+    Security alerts
+    :::
+
+    ::: {.pt-2 .pb-3 .px-3 .d-flex .flex-justify-start .flex-row-reverse}
+    Apply
+    Cancel
+    :::
+    :::
+
+    ::: notifications-component-dialog-overlay
+    :::
+
+-   ::: {.d-flex view-component="true"}
+    ::: {.position-relative .d-inline-block view-component="true"}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/de04038bd7f62ba88a6c5d6e0b57bcff79cbfc66.svg){.octicon
+    .octicon-repo-forked .mr-2}Fork [0]{#repo-network-counter .Counter
+    pjax-replace="true" turbo-replace="true" title="0"
+    view-component="true"}
+    Cannot fork because you own this repository and are not a member of
+    any organizations.
+    :::
+
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/145078a66bb094501930a04ed10e86deed285d73.svg){.octicon
+    .octicon-triangle-down}
+
+    ::: SelectMenu-modal
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+    .octicon-x}
+
+    ::: {#filter-menu-0463ac .d-flex .flex-column .flex-1 .overflow-hidden}
+    ::: SelectMenu-list
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/10a213893140e5d95059ff8493df695ad94a86bf.svg){.anim-rotate}
+    :::
+    :::
+    :::
+    :::
+
+-   ::: Box-header
+    ## Unstar this repository? {#unstar-this-repository .Box-title}
+    :::
+
+    ::: Box-body
+    This will remove {{ repoNameWithOwner }} from the {{ listsWithCount
+    }} that it\'s been added to.
+
+    ::: form-actions
+    Unstar
+    :::
+    :::
+
+    ::: {.js-toggler-container .js-social-container .starring-container .d-flex view-component="true"}
+    ::: {.starred .BtnGroup .flex-1 view-component="true"}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/145ff2822479a0e8f3f79fd457cc582869df9d3c.svg){.octicon
+    .octicon-star-fill .starred-button-icon .d-inline-block .mr-2}[
+    Starred ]{.d-inline view-component="true"}
+    [0]{#repo-stars-counter-unstar .Counter .js-social-count
+    aria-label="0 users starred this repository"
+    singular-suffix="user starred this repository"
+    plural-suffix="users starred this repository" turbo-replace="true"
+    title="0" view-component="true"}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/145078a66bb094501930a04ed10e86deed285d73.svg){.octicon
+    .octicon-triangle-down}
+
+    ::: SelectMenu-modal
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+    .octicon-x}
+
+    ::: {#filter-menu-061f79 .d-flex .flex-column .flex-1 .overflow-hidden}
+    ::: SelectMenu-list
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/10a213893140e5d95059ff8493df695ad94a86bf.svg){.anim-rotate}
+    :::
+    :::
+    :::
+    :::
+
+    ::: {.unstarred .BtnGroup .flex-1 view-component="true"}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/8c39198a956a90c80666a3eeeb85e1ebdfaeb4a0.svg){.octicon
+    .octicon-star .d-inline-block .mr-2}[ Star ]{.d-inline
+    view-component="true"} [0]{#repo-stars-counter-star .Counter
+    .js-social-count aria-label="0 users starred this repository"
+    singular-suffix="user starred this repository"
+    plural-suffix="users starred this repository" turbo-replace="true"
+    title="0" view-component="true"}
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/145078a66bb094501930a04ed10e86deed285d73.svg){.octicon
+    .octicon-triangle-down}
+
+    ::: SelectMenu-modal
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+    .octicon-x}
+
+    ::: {#filter-menu-061f79 .d-flex .flex-column .flex-1 .overflow-hidden}
+    ::: SelectMenu-list
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/10a213893140e5d95059ff8493df695ad94a86bf.svg){.anim-rotate}
+    :::
+    :::
+    :::
+    :::
+    :::
+:::
+
+::: {#responsive-meta-container turbo-replace=""}
+:::
+
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/845243f1a38f60a30495a8bb0e5092c9c561dcba.svg){.octicon
+    .octicon-code .UnderlineNav-octicon .d-none .d-sm-inline}
+    [Code]{data-content="Code"} []{#code-repo-tab-count .Counter
+    pjax-replace="" turbo-replace="" title="Not available"
+    view-component="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat){#code-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item .selected tab-item="i0code-tab"
+    selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame" hotkey="g c"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Code\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    aria-current="page" view-component="true"}
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/f0cad8a1fc805a9384c612c9aebc770311e80b6f.svg){.octicon
+    .octicon-issue-opened .UnderlineNav-octicon .d-none .d-sm-inline}
+    [Issues]{data-content="Issues"} [0]{#issues-repo-tab-count .Counter
+    pjax-replace="" turbo-replace="" title="0" hidden="hidden"
+    view-component="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/issues){#issues-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item tab-item="i1issues-tab"
+    selected-links="repo_issues repo_labels repo_milestones /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/issues"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame" hotkey="g i"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Issues\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    view-component="true"}
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/150d1906947f625f0d0381c405d510aeddbb72d7.svg){.octicon
+    .octicon-git-pull-request .UnderlineNav-octicon .d-none
+    .d-sm-inline} [Pull requests]{data-content="Pull requests"}
+    [0]{#pull-requests-repo-tab-count .Counter pjax-replace=""
+    turbo-replace="" title="0" hidden="hidden"
+    view-component="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/pulls){#pull-requests-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item tab-item="i2pull-requests-tab"
+    selected-links="repo_pulls checks /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/pulls"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame" hotkey="g p"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Pull requests\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    view-component="true"}
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/2ad415df557ec5c6ae21a6d18213fe7746f3b33f.svg){.octicon
+    .octicon-play .UnderlineNav-octicon .d-none .d-sm-inline}
+    [Actions]{data-content="Actions"} []{#actions-repo-tab-count
+    .Counter pjax-replace="" turbo-replace="" title="Not available"
+    view-component="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/actions){#actions-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item tab-item="i3actions-tab"
+    selected-links="repo_actions /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/actions"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame" hotkey="g a"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Actions\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    view-component="true"}
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/02bb96dbae8fdeb9461edbd85a5ab1ca7f17ad48.svg){.octicon
+    .octicon-table .UnderlineNav-octicon .d-none .d-sm-inline}
+    [Projects]{data-content="Projects"} [0]{#projects-repo-tab-count
+    .Counter pjax-replace="" turbo-replace="" title="0" hidden="hidden"
+    view-component="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/projects){#projects-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item tab-item="i4projects-tab"
+    selected-links="repo_projects new_repo_project repo_project /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/projects"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame" hotkey="g b"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Projects\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    view-component="true"}
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/70bed97116bb2257bf958ce239c0a82b3ea1a7fe.svg){.octicon
+    .octicon-book .UnderlineNav-octicon .d-none .d-sm-inline}
+    [Wiki]{data-content="Wiki"} []{#wiki-repo-tab-count .Counter
+    pjax-replace="" turbo-replace="" title="Not available"
+    view-component="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/wiki){#wiki-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item tab-item="i5wiki-tab"
+    selected-links="repo_wiki /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/wiki"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame" hotkey="g w"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Wiki\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    view-component="true"}
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/ed3a7a02267a08d2f240339551aa6b5dc663bffc.svg){.octicon
+    .octicon-shield .UnderlineNav-octicon .d-none .d-sm-inline}
+    [Security]{data-content="Security"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/security){#security-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item tab-item="i6security-tab"
+    selected-links="security overview alerts policy token_scanning code_scanning /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/security"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame" hotkey="g s"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Security\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    view-component="true"}
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/03bb8fc2960452cd2f7496dc46af0f2f85b21058.svg){.octicon
+    .octicon-graph .UnderlineNav-octicon .d-none .d-sm-inline}
+    [Insights]{data-content="Insights"} []{#insights-repo-tab-count
+    .Counter pjax-replace="" turbo-replace="" title="Not available"
+    view-component="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/pulse){#insights-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item tab-item="i7insights-tab"
+    selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/pulse"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Insights\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    view-component="true"}
+-   [![](vertopal_c1308b15e43744389233076cfa7d6cd1/dd93352d883a4c3503fd1f77d50cd869276dae77.svg){.octicon
+    .octicon-gear .UnderlineNav-octicon .d-none .d-sm-inline}
+    [Settings]{data-content="Settings"} []{#settings-repo-tab-count
+    .Counter pjax-replace="" turbo-replace="" title="Not available"
+    view-component="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/settings){#settings-tab
+    .UnderlineNav-item .no-wrap .js-responsive-underlinenav-item
+    .js-selected-navigation-item tab-item="i8settings-tab"
+    selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rule_insights repo_rulesets repo_protected_tags_settings repo_settings repository_runtime reported_content repo_custom_properties repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/settings"
+    pjax="#repo-content-pjax-container"
+    turbo-frame="repo-content-turbo-frame"
+    analytics-event="{\"category\":\"Underline navbar\",\"action\":\"Click tab\",\"label\":\"Settings\",\"target\":\"UNDERLINE_NAV.TAB\"}"
+    view-component="true"}
+
+::: {.UnderlineNav-actions .js-responsive-underlinenav-overflow .position-absolute .pr-3 .pr-md-4 .pr-lg-5 .right-0 style="visibility:hidden;" view-component="true"}
+::: {.UnderlineNav-item .mr-0 .border-0}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/e311acb13e014b29f73c52cd8ee89b87029679d5.svg){.octicon
+.octicon-kebab-horizontal} [More]{.sr-only}
+:::
+
+-   [Code](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat){.js-selected-navigation-item
+    .selected .dropdown-item role="menuitem" aria-current="page"
+    selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat"}
+-   [Issues](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/issues){.js-selected-navigation-item
+    .dropdown-item role="menuitem"
+    selected-links="repo_issues repo_labels repo_milestones /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/issues"}
+-   [Pull
+    requests](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/pulls){.js-selected-navigation-item
+    .dropdown-item role="menuitem"
+    selected-links="repo_pulls checks /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/pulls"}
+-   [Actions](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/actions){.js-selected-navigation-item
+    .dropdown-item role="menuitem"
+    selected-links="repo_actions /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/actions"}
+-   [Projects](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/projects){.js-selected-navigation-item
+    .dropdown-item role="menuitem"
+    selected-links="repo_projects new_repo_project repo_project /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/projects"}
+-   [Wiki](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/wiki){.js-selected-navigation-item
+    .dropdown-item role="menuitem"
+    selected-links="repo_wiki /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/wiki"}
+-   [Security](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/security){.js-selected-navigation-item
+    .dropdown-item role="menuitem"
+    selected-links="security overview alerts policy token_scanning code_scanning /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/security"}
+-   [Insights](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/pulse){.js-selected-navigation-item
+    .dropdown-item role="menuitem"
+    selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/pulse"}
+-   [Settings](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/settings){.js-selected-navigation-item
+    .dropdown-item role="menuitem"
+    selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rule_insights repo_rulesets repo_protected_tags_settings repo_settings repository_runtime reported_content repo_custom_properties repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/settings"}
+:::
+:::
+
+::: {#repo-content-pjax-container .repository-content}
+[Open in github.dev](https://github.dev/){.d-none
+.js-github-dev-shortcut hotkey="."} [Open in a new github.dev
+tab](https://github.dev/){.d-none .js-github-dev-new-tab-shortcut
+hotkey="Shift+.,Shift+>,>" target="_blank"}
+
+::: {.clearfix .container-xl .px-3 .px-md-4 .px-lg-5 .mt-4}
+::: mb-3
+[Beta]{.Label .Label--success view-component="true"} [Try the new code
+view](#enroll-beta){.text-small
+feature-preview-trigger-url="/users/eprbennett/feature_previews?selected_slug=code_search_code_view"}
+:::
+
+<div>
+
+[Permalink](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/f6f541f60ef1fd33d79548d83562cd8da7f9fb24/README.md){.d-none
+.js-permalink-shortcut hotkey="y"}
+
+::: {.d-flex .flex-items-start .flex-shrink-0 .pb-3 .flex-wrap .flex-md-nowrap .flex-justify-between .flex-md-justify-start}
+::: position-relative
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/96a87ffdda860365bd79170aaa8be6c20d28f24b.svg){.octicon
+.octicon-git-branch} [main]{.css-truncate-target menu-button=""}
+[]{.dropdown-caret}
+
+::: SelectMenu
+::: SelectMenu-modal
+::: SelectMenu-header
+[Switch branches/tags]{.SelectMenu-title}
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/0055ecb6ed2f600c93e1923f9f9eccb30c338b52.svg){.octicon
+.octicon-x}
+:::
+
+::: SelectMenu-filter
+:::
+
+::: {.SelectMenu-tabs role="tablist" data-target="input-demux.control"}
+Branches
+
+Tags
+:::
+
+::: {#ref-list-branches .d-flex .flex-column .flex-auto .overflow-auto role="tabpanel" filter-placeholder="Find or create a branch…" tabindex=""}
+::: {.SelectMenu-message index="{{ index }}"}
+Could not load branches
+:::
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/6d14f82fee92621d2f52563b6262182a97737278.svg){.octicon
+.octicon-git-branch .SelectMenu-icon .flex-self-baseline}
+
+<div>
+
+[Create branch: {{ refName }}]{.text-bold} [from
+'main']{.color-fg-muted}
+
+</div>
+
+::: {.SelectMenu-list data-target="ref-selector.listContainer" role="menu" turbo-frame="repo-content-turbo-frame"}
+::: {.SelectMenu-loading .pt-3 .pb-0 .overflow-hidden aria-label="Menu is loading"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/459e574b19f4ba9998dd2caff4c956aa7991019c.svg){.anim-rotate}
+:::
+:::
+
+[![](vertopal_c1308b15e43744389233076cfa7d6cd1/cbb2d575ac2d34c26703df10dbcfea606e12095c.svg){.octicon
+.octicon-check .SelectMenu-icon .SelectMenu-icon--check} [{{ refName
+}}]{.flex-1 .css-truncate .css-truncate-overflow .{{ .isFilteringClass
+.}}} [default]{.Label .Label--secondary .flex-self-start
+hidden="{{ isNotDefault }}"}](https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/%7B%7B%20urlEncodedRefName%20%7D%7D/README.md){.SelectMenu-item
+role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}"
+index="{{ index }}"}
+
+[View all
+branches](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/branches)
+:::
+
+::: {#tags-menu .d-flex .flex-column .flex-auto .overflow-auto role="tabpanel" filter-placeholder="Find a tag" tabindex="" hidden=""}
+::: {.SelectMenu-message index="{{ index }}"}
+Could not load tags
+:::
+
+::: {.SelectMenu-message index="{{ index }}"}
+Nothing to show
+:::
+
+[![](vertopal_c1308b15e43744389233076cfa7d6cd1/cbb2d575ac2d34c26703df10dbcfea606e12095c.svg){.octicon
+.octicon-check .SelectMenu-icon .SelectMenu-icon--check} [{{ refName
+}}]{.flex-1 .css-truncate .css-truncate-overflow .{{ .isFilteringClass
+.}}} [default]{.Label .Label--secondary .flex-self-start
+hidden="{{ isNotDefault }}"}](https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/%7B%7B%20urlEncodedRefName%20%7D%7D/README.md){.SelectMenu-item
+role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}"
+index="{{ index }}"}
+
+::: {.SelectMenu-list data-target="ref-selector.listContainer" role="menu" turbo-frame="repo-content-turbo-frame"}
+::: {.SelectMenu-loading .pt-3 .pb-0 .overflow-hidden aria-label="Menu is loading"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/459e574b19f4ba9998dd2caff4c956aa7991019c.svg){.anim-rotate}
+:::
+:::
+
+[View all
+tags](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/tags)
+:::
+:::
+:::
+:::
+
+::: {.Overlay--hidden .Overlay-backdrop--center modal-dialog-overlay=""}
+::: {.Overlay-header .Overlay-header--large .Overlay-header--divided}
+::: Overlay-headerContentWrap
+::: Overlay-titleWrap
+# Name already in use {#warn-tag-match-create-branch-dialog-header .Overlay-title}
+:::
+
+::: Overlay-actionWrap
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+.octicon-x}
+:::
+:::
+:::
+
+::: Overlay-body
+::: {view-component="true"}
+A tag already exists with the provided branch name. Many Git commands
+accept both tag and branch names, so creating this branch may cause
+unexpected behavior. Are you sure you want to create this branch?
+:::
+:::
+
+Cancel
+
+Create
+:::
+
+## [[[How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat){turbo-frame="repo-content-turbo-frame"}]{.js-path-segment .d-inline-block .wb-break-all}]{.js-repo-root .text-bold}[/]{.separator}**README.md** {#blob-path .breadcrumb .flex-auto .flex-self-center .min-width-0 .text-normal .mx-2 .width-full .width-md-auto .flex-order-1 .flex-md-order-none .mt-3 .mt-md-0}
+
+[Go to
+file](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/find/main){.btn
+.mr-2 .d-none .d-md-block pjax="" hotkey="t" view-component="true"}
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/01e762971b00dfedf5aa6c01b66029e023493277.svg){.octicon
+.octicon-kebab-horizontal}
+
+::: {view-component="true"}
+-   [[Go to file]{.flex-auto} [T]{.text-small .color-fg-muted
+    aria-hidden="true"}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/find/main){.dropdown-item
+    .d-flex .flex-items-baseline
+    hydro-click="{\"event_type\":\"repository.click\",\"payload\":{\"target\":\"FIND_FILE_BUTTON\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+    hydro-click-hmac="e19683133aa22e8e53dcf5f15cfdb36423fd9311f6c1f6123a6c244bd082ae3d"
+    ga-click="Repository, find file, location:repo overview" hotkey="t"}
+-   [ [Go to line]{.flex-auto} [L]{.text-small .color-fg-muted
+    aria-hidden="true"} ]{.d-flex .flex-items-baseline}
+-   
+-   Copy path
+-   [ [Copy permalink]{.flex-auto} ]{.d-flex .flex-items-baseline}
+:::
+:::
+
+::: {#spoof-warning .mt-0 .pb-3 hidden="" aria-hidden=""}
+::: {.flash .flash-warn .mt-0 .clearfix view-component="true"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/1d75d31aa0548e4f69e3009e5b8217012fb20953.svg){.octicon
+.octicon-alert .float-left .mt-1}
+
+::: overflow-hidden
+This commit does not belong to any branch on this repository, and may
+belong to a fork outside of the repository.
+:::
+:::
+:::
+
+::: {.Box .d-flex .flex-column .flex-shrink-0 .mb-3}
+::: {.Box-header .Details .js-details-container}
+::: {.d-flex .flex-items-center}
+[
+[![\@eprbennett](vertopal_c1308b15e43744389233076cfa7d6cd1/b7156500d63e52ab5b3f2502df750209a7536971.png){.avatar
+.avatar-user width="24" height="24"}](/eprbennett){rel="author"
+hovercard-type="user" hovercard-url="/users/eprbennett/hovercard"
+octo-click="hovercard-link-click" octo-dimensions="link_type:self"}
+]{.flex-shrink-0 .ml-n1 .mr-n1 .mt-n1 .mb-n1}
+
+::: {.flex-1 .d-flex .flex-items-center .ml-3 .min-width-0}
+::: {.css-truncate .css-truncate-overflow}
+[eprbennett](/eprbennett){.text-bold .Link--primary rel="author"
+hovercard-type="user" hovercard-url="/users/eprbennett/hovercard"
+octo-click="hovercard-link-click" octo-dimensions="link_type:self"} [
+[Update
+README.md](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/commit/f6f541f60ef1fd33d79548d83562cd8da7f9fb24 "Update README.md"){.Link--secondary
+pjax="true"} ]{.markdown-title}
+:::
+
+[ ]{.ml-2}
+:::
+
+::: {.ml-3 .d-flex .flex-shrink-0 .flex-items-center .flex-justify-end .color-fg-muted .no-wrap}
+[ Latest commit
+[f6f541f](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/commit/f6f541f60ef1fd33d79548d83562cd8da7f9fb24){.text-small
+.text-mono .Link--secondary pjax=""} [Feb 27,
+2023]{itemprop="dateModified"} ]{.d-none .d-md-inline}
+[![](vertopal_c1308b15e43744389233076cfa7d6cd1/7a7902cd8e69a3bc91ee7dcc2b2c970aed2d159d.svg){.octicon
+.octicon-history} [ **History** ]{.d-none
+.d-sm-inline}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/commits/main/README.md){.ml-3
+.no-wrap .Link--primary .no-underline pjax=""}
+:::
+:::
+:::
+
+::: {.Box-body .d-flex .flex-items-center .flex-auto .border-bottom-0 .flex-wrap}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/8083d64c1ee97f91e6feb714e92878a5bdc756ba.svg){.octicon
+.octicon-people} **1** contributor
+
+::: Box-header
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+.octicon-x}
+
+### Users who have contributed to this file {#users-who-have-contributed-to-this-file .Box-title}
+:::
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/11a7b488b78d25177545cbd8e6fc6abb37410b22.svg){.my-3
+.mx-auto .d-block .anim-rotate}
+:::
+:::
+
+::: {.Box .mt-3 .position-relative data-target="readme-toc.content"}
+::: {.Box-header .js-blob-header .blob-header .js-sticky .js-position-sticky .top-0 .p-2 .d-flex .flex-shrink-0 .flex-md-row .flex-items-center style="position: sticky; z-index: 1;"}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/0069b87ad8bbae95a136b6a6c1ab896fb9044840.svg){.octicon
+.octicon-list-unordered}
+
+::: {.SelectMenu-modal .rounded-3 .mt-1 style="max-height:340px;"}
+::: SelectMenu-filter
+:::
+
+::: {.SelectMenu-list .SelectMenu-list--borderless .p-2 style="overscroll-behavior: contain;" filterable-for="toc-filter-field" filterable-type="substring"}
+[Introduction](#introduction){.filter-item .SelectMenu-item .ws-normal
+.wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 24px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Bellabeat](#bellabeat){.filter-item .SelectMenu-item .ws-normal
+.wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Ask: To better understand the data and the business
+task.](#ask-to-better-understand-the-data-and-the-business-task){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 24px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Prepare: Prepare data before
+manipulation.](#prepare-prepare-data-before-manipulation){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 24px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Data set description](#data-set-description){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Process: R studio was chosen for this case
+study.](#process-r-studio-was-chosen-for-this-case-study){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 24px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Load packages](#load-packages){.filter-item .SelectMenu-item .ws-normal
+.wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 48px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Set working directory](#set-working-directory){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 48px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Importing data sets](#importing-data-sets){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Review data](#review-data){.filter-item .SelectMenu-item .ws-normal
+.wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Cleaning the data sets](#cleaning-the-data-sets){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Analyze: Putting the data to
+work.](#analyze-putting-the-data-to-work){.filter-item .SelectMenu-item
+.ws-normal .wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 24px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Statistics of the 4 dataframes considered for
+analysis.](#statistics-of-the-4-dataframes-considered-for-analysis){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Merging data](#merging-data){.filter-item .SelectMenu-item .ws-normal
+.wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 48px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Key Findings](#key-findings){.filter-item .SelectMenu-item .ws-normal
+.wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Share: Data visualization.](#share-data-visualization){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 24px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Total Steps](#total-steps){.filter-item .SelectMenu-item .ws-normal
+.wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Total Steps vs. Sedentary
+Minutes](#total-steps-vs-sedentary-minutes){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 48px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Total Steps vs. Calories](#total-steps-vs-calories){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 48px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Intensities](#intensities){.filter-item .SelectMenu-item .ws-normal
+.wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Intensities vs. Time](#intensities-vs-time){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 48px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Summary Analysis](#summary-analysis){.filter-item .SelectMenu-item
+.ws-normal .wb-break-word .line-clamp-2 .py-1 role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 36px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+[Act: Conclusions and marketing
+recommendations](#act-conclusions-and-marketing-recommendations){.filter-item
+.SelectMenu-item .ws-normal .wb-break-word .line-clamp-2 .py-1
+role="menuitem"
+style="-webkit-box-orient: vertical; padding-left: 24px;"
+data-action="click:readme-toc#blur" targets="readme-toc.entries"
+hydro-click="{\"event_type\":\"repository_toc_menu.click\",\"payload\":{\"target\":\"entry\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="5931dc40eb4c7c3177c007855c88d4a02e329c27a863dcdeb4bee4f291272eed"}
+:::
+:::
+
+::: {.text-mono .f6 .flex-auto .pr-3 .flex-order-2 .flex-md-order-1}
+217 lines (172 sloc) []{.file-info-divider} 7.29 KB
+:::
+
+::: {.d-flex .py-1 .py-md-0 .flex-auto .flex-order-1 .flex-md-order-2 .flex-sm-grow-0 .flex-justify-between .hide-sm .hide-md}
+::: BtnGroup
+[![](vertopal_c1308b15e43744389233076cfa7d6cd1/e9bd87f3532851ba54e9ac2331b57915b7621636.svg){.octicon
+.octicon-code}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md?plain=1){.source
+.tooltipped .tooltipped .tooltipped-n .js-permalink-replaceable-link
+.btn-sm .btn .BtnGroup-item
+permalink-href="/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/f6f541f60ef1fd33d79548d83562cd8da7f9fb24/README.md?plain=1"
+aria-label="Display the source blob" view-component="true"}
+[![](vertopal_c1308b15e43744389233076cfa7d6cd1/ed9a03b9b85a1732dbe03657dbec0bb4465bc239.svg){.octicon
+.octicon-file}](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md){.rendered
+.tooltipped .tooltipped .tooltipped-n .selected
+.js-permalink-replaceable-link .btn-sm .btn .BtnGroup-item
+permalink-href="/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/f6f541f60ef1fd33d79548d83562cd8da7f9fb24/README.md"
+aria-label="Display the rendered blob" view-component="true"}
+:::
+
+::: BtnGroup
+[Raw](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/raw/main/README.md){#raw-url
+.js-permalink-replaceable-link .btn-sm .btn .BtnGroup-item
+permalink-href="/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/raw/f6f541f60ef1fd33d79548d83562cd8da7f9fb24/README.md"
+view-component="true"}
+[Blame](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blame/main/README.md){.js-update-url-with-hash
+.js-permalink-replaceable-link .btn-sm .btn .BtnGroup-item
+permalink-href="/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blame/f6f541f60ef1fd33d79548d83562cd8da7f9fb24/README.md"
+hotkey="b" view-component="true"}
+:::
+
+::: d-flex
+::: ml-1
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/11514601fb4acf0b6463f6039a7bf3029ea025f4.svg){.octicon
+.octicon-pencil}
+
+::: {.SelectMenu .right-0}
+::: {.SelectMenu-modal .width-full}
+::: {.SelectMenu-list .SelectMenu-list--borderless .py-2}
+::: mr-5
+Edit this file
+:::
+
+::: color-fg-muted
+E
+:::
+
+[](https://github.dev/){.SelectMenu-item .js-github-dev-shortcut
+.js-blob-dropdown-click .width-full .d-flex .flex-justify-between
+.color-fg-default .f5 .text-normal
+aria-label="Open this file in github.dev"
+dropdown-tracking="{\"type\":\"blob_edit_dropdown.dev_link_click\",\"context\":{\"repository_id\":594047617,\"actor_id\":123743836,\"edit_enabled\":true,\"small_screen\":false}}"
+view-component="true"}
+
+::: {.mr-5 .no-wrap}
+Open in github.dev
+:::
+
+::: color-fg-muted
+.
+:::
+
+[Open in GitHub Desktop](https://desktop.github.com){.SelectMenu-item
+.no-wrap .js-remove-unless-platform .width-full .text-normal
+.color-fg-default .f5 platforms="windows,mac"
+aria-label="Open this file in GitHub Desktop" view-component="true"}
+:::
+:::
+:::
+:::
+
+<div>
+
+[ [
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/5311f53973ac7d82c08e8252d439dd78427d3699.svg){.octicon
+.octicon-copy} ]{.tooltipped .tooltipped-nw .cursor-pointer
+hydro-click="{\"event_type\":\"repository.click\",\"payload\":{\"target\":\"COPY_RAW_CONTENTS_BUTTON\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+hydro-click-hmac="3f52985d88574ac16df64e05499ae4d9043bbfe5442db72f08dd8d44288e0194"
+aria-label="Copy raw contents"}]{data-target="remote-clipboard-copy.idle"}
+[
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/fa1f62e2a258217564928a7464a492d29a111dba.svg){.anim-rotate}
+]{data-target="remote-clipboard-copy.fetching" hidden="hidden"} [ [
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/ad7c3d23b15d1dba50628d747323eee4c626ec4f.svg){.octicon
+.octicon-check .color-fg-success} ]{.tooltipped .tooltipped-nw
+aria-label="Copied!"} ]{data-target="remote-clipboard-copy.success"
+hidden="hidden"} [ [
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/3ee39b6cfe720e1cfa1d7c25156ddb75e91c8da0.svg){.octicon
+.octicon-alert .color-fg-attention} ]{.tooltipped .tooltipped-nw
+aria-label="Something went wrong. Try again."}
+]{data-target="remote-clipboard-copy.error" hidden="hidden"}
+
+</div>
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/4dfb7909ecc49c9d7e38f251377819185b9ae299.svg){.octicon
+.octicon-trash}
+:::
+:::
+
+::: {.d-flex .hide-lg .hide-xl .flex-order-2 .flex-grow-0}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/e311acb13e014b29f73c52cd8ee89b87029679d5.svg){.octicon
+.octicon-kebab-horizontal}
+
+-   [Open with Desktop](https://desktop.github.com){.dropdown-item
+    .tooltipped .tooltipped-nw .js-remove-unless-platform
+    platforms="windows,mac"}
+-   [View
+    raw](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/raw/main/README.md){.dropdown-item}
+-   [ [ Copy raw contents ]{.cursor-pointer
+    hydro-click="{\"event_type\":\"repository.click\",\"payload\":{\"target\":\"COPY_RAW_CONTENTS_BUTTON\",\"repository_id\":594047617,\"originating_url\":\"https://github.com/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blob/main/README.md\",\"user_id\":123743836}}"
+    hydro-click-hmac="3f52985d88574ac16df64e05499ae4d9043bbfe5442db72f08dd8d44288e0194"}]{data-target="remote-clipboard-copy.idle"}
+    [ Copy raw contents [
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/bf6d552ae536d4f774f78f0770f9b852d759237c.svg){.anim-rotate}
+    ]{.d-inline-block .position-relative style="top: 3px"}
+    ]{data-target="remote-clipboard-copy.fetching" hidden="hidden"} [
+    Copy raw contents
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/c28c70a29e26317051ef427870f7391f9e89a1e1.svg){.octicon
+    .octicon-check .color-fg-success}
+    ]{data-target="remote-clipboard-copy.success" hidden="hidden"} [
+    Copy raw contents
+    ![](vertopal_c1308b15e43744389233076cfa7d6cd1/5b3e3253b4d182c2a96b9af05a1368f12197ef21.svg){.octicon
+    .octicon-alert .color-fg-attention}
+    ]{data-target="remote-clipboard-copy.error" hidden="hidden"}
+-   [View
+    blame](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/blame/main/README.md){.dropdown-item}
+-   
+-   [Edit
+    file](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/edit/main/README.md){.dropdown-item}
+-   [Open with github.dev](https://github.dev/){.dropdown-item
+    .js-github-dev-shortcut .js-blob-dropdown-click
+    dropdown-tracking="{\"type\":\"blob_edit_dropdown.dev_link_click\",\"context\":{\"repository_id\":594047617,\"actor_id\":123743836,\"edit_enabled\":true,\"small_screen\":true}}"
+    view-component="true"}
+-   [Delete
+    file](/eprbennett/How-Can-a-Wellness-Technology-Company-Play-It-Smart-Bellabeat/delete/main/README.md){.dropdown-item
+    .menu-item-danger}
+:::
+:::
+
+::: {#readme .Box-body .readme .blob .js-code-block-container .p-5 .p-xl-6 .gist-border-0}
++-----------------+-----------------+-----------------+-----------------+
+| title           | author          | date            | output          |
++=================+=================+=================+=================+
+| :               | :               | :               | :               |
+| :: {dir="auto"} | :: {dir="auto"} | :: {dir="auto"} | :: {dir="auto"} |
+| Bellabeat       | Emily           | 2023-01-27      | html_document   |
+| Analysis        | :::             | :::             | :::             |
+| :::             |                 |                 |                 |
++-----------------+-----------------+-----------------+-----------------+
+
+## [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#introduction){#user-content-introduction .anchor aria-hidden="true"}Introduction {#introduction dir="auto"}
+
+Welcome to my data analysis for Bellabeat, a high-tech manufacturer that
+creates health-focused products for women. This project followed six
+steps in order to answer key business questions; ask, prepare, process,
+analyze, share, and act.
+
+In this study I focused on Fitbit data to gain insight on how consumers
+use their smart devices, to make business decisions for Bellabeat's
+products.
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#bellabeat){#user-content-bellabeat .anchor aria-hidden="true"}Bellabeat {#bellabeat dir="auto"}
+
+Bellabeat is a high-tech producer of health-focused products for women,
+which includes smart devices like an app, a wellness tracker, a wellness
+watch, and an interactive water bottle.
+
+## [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#ask-to-better-understand-the-data-and-the-business-task){#user-content-ask-to-better-understand-the-data-and-the-business-task .anchor aria-hidden="true"}Ask: To better understand the data and the business task. {#ask-to-better-understand-the-data-and-the-business-task. dir="auto"}
+
+1.  What are some trends in smart device usage?
+2.  How could these trends apply to Bellabeat customers?
+3.  How could these trends help influence Bellabeat\'s marketing
+    strategy?
+4.  Who are the key stakeholders?
+
+*Business Task: How do Bellabeat customers use their smart devices and
+what potential opportunities does the marketing team have based on
+trends in smart device usage.*
+
+## [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#prepare-prepare-data-before-manipulation){#user-content-prepare-prepare-data-before-manipulation .anchor aria-hidden="true"}Prepare: Prepare data before manipulation. {#prepare-prepare-data-before-manipulation. dir="auto"}
+
+-   Data was downloaded from Kaggle and stored in the case study's
+    folder.
+-   The data has .CSV files with long and wide formats.
+-   Bias: The data is from FitBit users, not from Bellabeat users. This
+    means tha there is a gender bias since the data used includes men
+    and women, but Bellabeat\'s products are for women.
+-   Integrity and licensing are adressed bellow.
+-   The data was sorted and filtered to my needs.
+-   The data has information about 33 different individuals, however,
+    only 30 have complete information.
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#data-set-description){#user-content-data-set-description .anchor aria-hidden="true"}Data set description {#data-set-description dir="auto"}
+
+Public data from FitBit Fitness Tracker Data was used for the analysis
+(CC0: Public Domain, dataset made available through Mobius). This Kaggle
+data set contains 18 CSV files about personal fitness tracker
+information. Thirty Fitbit users consented to the submission of data
+including physical activity, heart rate, and sleep monitoring.
+
+The dataset was generated by respondents to a distributed survey via
+Amazon Mechanical Turk between 03.12.2016 - 05.12.2016.
+
+## [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#process-r-studio-was-chosen-for-this-case-study){#user-content-process-r-studio-was-chosen-for-this-case-study .anchor aria-hidden="true"}Process: R studio was chosen for this case study. {#process-r-studio-was-chosen-for-this-case-study. dir="auto"}
+
+#### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#load-packages){#user-content-load-packages .anchor aria-hidden="true"}Load packages {#load-packages dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="library(tidyverse)
+library(lubridate)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(here)
+library(skimr)
+library(janitor)"}
+``` {.notranslate lang="{r,"}
+library(tidyverse)
+library(lubridate)
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(here)
+library(skimr)
+library(janitor)
+```
+:::
+
+#### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#set-working-directory){#user-content-set-working-directory .anchor aria-hidden="true"}Set working directory {#set-working-directory dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="getwd()
+setwd(\"~/Desktop/personal stuff/Analytics/CASE STUDY/Fitabase Data 4.12.16-5.12.16\")"}
+``` {.notranslate lang="{r}"}
+getwd()
+setwd("~/Desktop/personal stuff/Analytics/CASE STUDY/Fitabase Data 4.12.16-5.12.16")
+```
+:::
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#importing-data-sets){#user-content-importing-data-sets .anchor aria-hidden="true"}Importing data sets {#importing-data-sets dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Activity <- read.csv(\"dailyActivity_merged.csv\")
+head(Activity)
+Calories <- read.csv(\"dailyCalories_merged.csv\")
+head(Calories)
+Intensities <- read.csv(\"dailyIntensities_merged.csv\")
+head(Intensities)
+Heartrate <- read.csv(\"heartrate_seconds_merged.csv\")
+head(Heartrate)
+Sleep <- read.csv(\"sleepDay_merged.csv\")
+head(Sleep)
+Weight <- read.csv(\"weightLogInfo_merged.csv\")
+head(Weight)"}
+``` {.notranslate lang="{r,"}
+Activity <- read.csv("dailyActivity_merged.csv")
+head(Activity)
+Calories <- read.csv("dailyCalories_merged.csv")
+head(Calories)
+Intensities <- read.csv("dailyIntensities_merged.csv")
+head(Intensities)
+Heartrate <- read.csv("heartrate_seconds_merged.csv")
+head(Heartrate)
+Sleep <- read.csv("sleepDay_merged.csv")
+head(Sleep)
+Weight <- read.csv("weightLogInfo_merged.csv")
+head(Weight)
+```
+:::
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#review-data){#user-content-review-data .anchor aria-hidden="true"}Review data {#review-data dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="glimpse(Activity)
+glimpse(Calories)
+glimpse(Intensities)
+glimpse(Heartrate)
+glimpse(Sleep)
+glimpse(Weight)"}
+``` {.notranslate lang="{r}"}
+glimpse(Activity)
+glimpse(Calories)
+glimpse(Intensities)
+glimpse(Heartrate)
+glimpse(Sleep)
+glimpse(Weight)
+```
+:::
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#cleaning-the-data-sets){#user-content-cleaning-the-data-sets .anchor aria-hidden="true"}Cleaning the data sets {#cleaning-the-data-sets dir="auto"}
+
+-   Three duplicates were removed from the *sleep data*.
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="dim(Sleep)
+sum(is.na(Sleep))
+sum(duplicated(Sleep))
+Sleep <- Sleep[!duplicated(Sleep), ]"}
+``` {.notranslate lang="{r}"}
+dim(Sleep)
+sum(is.na(Sleep))
+sum(duplicated(Sleep))
+Sleep <- Sleep[!duplicated(Sleep), ]
+```
+:::
+
+-   Time stamp data formatted.
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Activity$ActivityDate=as.POSIXct(Activity$ActivityDate, format=\"%m/%d/%Y\", tz=Sys.timezone())
+Activity$date <- format(Activity$ActivityDate, format = \"%m/%d/%y\")
+Activity$ActivityDate=as.Date(Activity$ActivityDate, format=\"%m/%d/%Y\", tz=Sys.timezone())
+Activity$date=as.Date(Activity$date, format=\"%m/%d/%Y\")
+
+Intensities$ActivityDay=as.Date(Intensities$ActivityDay, format=\"%m/%d/%Y\", tz=Sys.timezone())
+
+Sleep$SleepDay=as.POSIXct(Sleep$SleepDay, format=\"%m/%d/%Y %I:%M:%S %p\", tz=Sys.timezone())
+Sleep$date <- format(Sleep$SleepDay, format = \"%m/%d/%y\")
+Sleep$date=as.Date(Sleep$date, \"% m/% d/% y\")"}
+``` {.notranslate lang="{r}"}
+Activity$ActivityDate=as.POSIXct(Activity$ActivityDate, format="%m/%d/%Y", tz=Sys.timezone())
+Activity$date <- format(Activity$ActivityDate, format = "%m/%d/%y")
+Activity$ActivityDate=as.Date(Activity$ActivityDate, format="%m/%d/%Y", tz=Sys.timezone())
+Activity$date=as.Date(Activity$date, format="%m/%d/%Y")
+
+Intensities$ActivityDay=as.Date(Intensities$ActivityDay, format="%m/%d/%Y", tz=Sys.timezone())
+
+Sleep$SleepDay=as.POSIXct(Sleep$SleepDay, format="%m/%d/%Y %I:%M:%S %p", tz=Sys.timezone())
+Sleep$date <- format(Sleep$SleepDay, format = "%m/%d/%y")
+Sleep$date=as.Date(Sleep$date, "% m/% d/% y")
+```
+:::
+
+## [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#analyze-putting-the-data-to-work){#user-content-analyze-putting-the-data-to-work .anchor aria-hidden="true"}Analyze: Putting the data to work. {#analyze-putting-the-data-to-work. dir="auto"}
+
+The tables have a different amount of individuals. Since Weight and
+Heartrate have less than half of the individuals these tables were not
+taken into consideration. The analysis is focused on Calories,
+Intensities, Activity, and Sleep.
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Activity %>%
+  summarise(Activity_participants = n_distinct(Activity$Id))
+
+n_distinct(Calories$Id)
+n_distinct(Intensities$Id)
+n_distinct(Heartrate$Id)
+n_distinct(Sleep$Id)
+n_distinct(Weight$Id)"}
+``` {.notranslate lang="{r}"}
+Activity %>%
+  summarise(Activity_participants = n_distinct(Activity$Id))
+
+n_distinct(Calories$Id)
+n_distinct(Intensities$Id)
+n_distinct(Heartrate$Id)
+n_distinct(Sleep$Id)
+n_distinct(Weight$Id)
+```
+:::
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#statistics-of-the-4-dataframes-considered-for-analysis){#user-content-statistics-of-the-4-dataframes-considered-for-analysis .anchor aria-hidden="true"}Statistics of the 4 dataframes considered for analysis. {#statistics-of-the-4-dataframes-considered-for-analysis. dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Activity %>%  
+  select(TotalSteps,
+         TotalDistance,
+         SedentaryMinutes, Calories) %>%
+  summary()"}
+``` {.notranslate lang="{r}"}
+Activity %>%  
+  select(TotalSteps,
+         TotalDistance,
+         SedentaryMinutes, Calories) %>%
+  summary()
+```
+:::
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Intensities %>%
+  select(VeryActiveMinutes, FairlyActiveMinutes, LightlyActiveMinutes, SedentaryMinutes) %>%
+  summary()"}
+``` {.notranslate lang="{r}"}
+Intensities %>%
+  select(VeryActiveMinutes, FairlyActiveMinutes, LightlyActiveMinutes, SedentaryMinutes) %>%
+  summary()
+```
+:::
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Calories %>%
+  select(Calories) %>%
+  summary()"}
+``` {.notranslate lang="{r}"}
+Calories %>%
+  select(Calories) %>%
+  summary()
+```
+:::
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Sleep %>%
+  select(TotalSleepRecords, TotalMinutesAsleep, TotalTimeInBed) %>%
+  summary()"}
+``` {.notranslate lang="{r}"}
+Sleep %>%
+  select(TotalSleepRecords, TotalMinutesAsleep, TotalTimeInBed) %>%
+  summary()
+```
+:::
+
+#### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#merging-data){#user-content-merging-data .anchor aria-hidden="true"}Merging data {#merging-data dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Combined_data_inner <- merge(Sleep, Activity, by=\"Id\")
+n_distinct(Combined_data_inner$Id)"}
+``` {.notranslate lang="{r}"}
+Combined_data_inner <- merge(Sleep, Activity, by="Id")
+n_distinct(Combined_data_inner$Id)
+```
+:::
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Combined_data_outer <- merge(Sleep, Activity, by=\"Id\", all = TRUE)
+n_distinct(Combined_data_outer$Id)"}
+``` {.notranslate lang="{r}"}
+Combined_data_outer <- merge(Sleep, Activity, by="Id", all = TRUE)
+n_distinct(Combined_data_outer$Id)
+```
+:::
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#key-findings){#user-content-key-findings .anchor aria-hidden="true"}Key Findings {#key-findings dir="auto"}
+
+-   Sleep is 7 hours average.
+-   The average number of steps taken in a day is 8.329.
+-   The average calories burned in a day is 2.362.
+-   The average time asleep is 419 min (7 hr).
+-   The average sedentary time in a day is 497 min (8hr).
+
+## [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#share-data-visualization){#user-content-share-data-visualization .anchor aria-hidden="true"}Share: Data visualization. {#share-data-visualization. dir="auto"}
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#total-steps){#user-content-total-steps .anchor aria-hidden="true"}Total Steps {#total-steps dir="auto"}
+
+#### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#total-steps-vs-sedentary-minutes){#user-content-total-steps-vs-sedentary-minutes .anchor aria-hidden="true"}Total Steps vs. Sedentary Minutes {#total-steps-vs.-sedentary-minutes dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="ggplot(data=Activity, aes(x=TotalSteps, y=SedentaryMinutes)) + 
+  geom_point() + geom_smooth() + labs(title=\"Total Steps vs. Sedentary Minutes\")"}
+``` {.notranslate lang="{r,"}
+ggplot(data=Activity, aes(x=TotalSteps, y=SedentaryMinutes)) + 
+  geom_point() + geom_smooth() + labs(title="Total Steps vs. Sedentary Minutes")
+```
+:::
+
+#### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#total-steps-vs-calories){#user-content-total-steps-vs-calories .anchor aria-hidden="true"}Total Steps vs. Calories {#total-steps-vs.-calories dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="ggplot(data=Activity, aes(x=TotalSteps, y=Calories)) + 
+  geom_point() + geom_smooth() + labs(title=\"Total Steps vs. Calories\")"}
+``` {.notranslate lang="{r}"}
+ggplot(data=Activity, aes(x=TotalSteps, y=Calories)) + 
+  geom_point() + geom_smooth() + labs(title="Total Steps vs. Calories")
+```
+:::
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#intensities){#user-content-intensities .anchor aria-hidden="true"}Intensities {#intensities dir="auto"}
+
+#### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#intensities-vs-time){#user-content-intensities-vs-time .anchor aria-hidden="true"}Intensities vs. Time {#intensities-vs.-time dir="auto"}
+
+::: {.snippet-clipboard-content .notranslate .position-relative .overflow-auto snippet-clipboard-copy-content="Intensities$ActiveIntensity <- (Intensities$VeryActiveMinutes)/60
+
+Combined_data <- merge(Weight, Intensities, by=\"Id\", all=TRUE)
+Combined_data$time <- format(Combined_data$Date, format = \"%H:%M:%S\")
+
+ggplot(data=Combined_data, aes(x=time, y=ActiveIntensity)) + geom_histogram(stat = \"identity\", fill='purple3') +
+  theme(axis.text.x = element_text(angle = 90)) +
+  labs(title=\"Total very Active Intensity vs. Time \")"}
+``` {.notranslate lang="{r}"}
+Intensities$ActiveIntensity <- (Intensities$VeryActiveMinutes)/60
+
+Combined_data <- merge(Weight, Intensities, by="Id", all=TRUE)
+Combined_data$time <- format(Combined_data$Date, format = "%H:%M:%S")
+
+ggplot(data=Combined_data, aes(x=time, y=ActiveIntensity)) + geom_histogram(stat = "identity", fill='purple3') +
+  theme(axis.text.x = element_text(angle = 90)) +
+  labs(title="Total very Active Intensity vs. Time ")
+```
+:::
+
+### [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#summary-analysis){#user-content-summary-analysis .anchor aria-hidden="true"}Summary Analysis {#summary-analysis dir="auto"}
+
+-   Positive correlation between Total Steps and Calories, the more
+    steps done the more calories burned.
+-   The average sedentary time is very high; participants are lightly
+    active.
+-   The more active the user, more calories burned.
+-   Most users are active before and after work hours.
+-   Users have only 23 very active minutes in the day.
+
+## [![](vertopal_c1308b15e43744389233076cfa7d6cd1/0b51c2f5029c6f9cb8ab23574cc840a69b04d3b5.svg){.octicon .octicon-link}](#act-conclusions-and-marketing-recommendations){#user-content-act-conclusions-and-marketing-recommendations .anchor aria-hidden="true"}Act: Conclusions and marketing recommendations {#act-conclusions-and-marketing-recommendations dir="auto"}
+
+*Final Conclusion: Most smart device users are sedentary which is not
+ideal for their health, sleep, and calories burned. This should be
+changed.*
+
+*Target Audience: Bellabeat tracking devices are ideal for sedentary
+people like those who have full-time jobs. These devices could help them
+create healthy habits involving staying fit, frequent movement, and
+exercise*
+
+Marketing Recommendations to the Bellabeat Marketing team
+
+-   Update notifications to remind users to stay active and follow a
+    sleep schedule.
+    -   Increase in notifications before and after work hours so the
+        users can actually work out.
+-   Offer an education platform so users are informed of the benefits of
+    staying active and sleeping well.
+-   App must be updated to apply these changes.
+:::
+:::
+
+Go
+
+::: pt-3
+Give feedback
+
+::: Box-header
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+.octicon-x}
+
+# Provide feedback {#provide-feedback .Box-title}
+:::
+
+::: {.Box-body .overflow-auto}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/11a7b488b78d25177545cbd8e6fc6abb37410b22.svg){.my-3
+.mx-auto .d-block .anim-rotate}
+:::
+:::
+
+</div>
+:::
+:::
+:::
+:::
+:::
+
+## Footer {#footer .sr-only}
+
+::: {.position-relative .d-flex .flex-items-center .pb-2 .f6 .color-fg-muted .border-top .color-border-muted .flex-column-reverse .flex-lg-row .flex-wrap .flex-lg-nowrap .mt-6 .pt-6}
+::: {.list-style-none .d-flex .flex-wrap .col-0 .col-lg-2 .flex-justify-start .flex-lg-justify-between .mb-2 .mb-lg-0}
+::: {.mt-2 .mt-lg-0 .d-flex .flex-items-center}
+[![](vertopal_c1308b15e43744389233076cfa7d6cd1/65d899d18c0734b22b7db4a4c07498256a0b4845.svg){.octicon
+.octicon-mark-github}](https://github.com "GitHub"){.footer-octicon
+.mr-2 aria-label="Homepage"} © 2023 GitHub, Inc.
+:::
+:::
+
+### Footer navigation {#sr-footer-heading .sr-only}
+
+-   [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service){analytics-event="{\"category\":\"Footer\",\"action\":\"go to terms\",\"label\":\"text:terms\"}"}
+-   [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement){analytics-event="{\"category\":\"Footer\",\"action\":\"go to privacy\",\"label\":\"text:privacy\"}"}
+-   [Security](https://github.com/security){analytics-event="{\"category\":\"Footer\",\"action\":\"go to security\",\"label\":\"text:security\"}"}
+-   [Status](https://www.githubstatus.com/){analytics-event="{\"category\":\"Footer\",\"action\":\"go to status\",\"label\":\"text:status\"}"}
+-   [Docs](https://docs.github.com){ga-click="Footer, go to help, text:Docs"}
+-   [Contact
+    GitHub](https://support.github.com?tags=dotcom-footer){analytics-event="{\"category\":\"Footer\",\"action\":\"go to contact\",\"label\":\"text:contact\"}"}
+-   [Pricing](https://github.com/pricing){analytics-event="{\"category\":\"Footer\",\"action\":\"go to Pricing\",\"label\":\"text:Pricing\"}"}
+-   [API](https://docs.github.com){analytics-event="{\"category\":\"Footer\",\"action\":\"go to api\",\"label\":\"text:api\"}"}
+-   [Training](https://services.github.com){analytics-event="{\"category\":\"Footer\",\"action\":\"go to training\",\"label\":\"text:training\"}"}
+-   [Blog](https://github.blog){analytics-event="{\"category\":\"Footer\",\"action\":\"go to blog\",\"label\":\"text:blog\"}"}
+-   [About](https://github.com/about){ga-click="Footer, go to about, text:about"}
+:::
+
+::: {.d-flex .flex-justify-center .pb-6}
+[]{.f6 .color-fg-muted}
+:::
+
+::: {#ajax-error-message .ajax-error-message .flash .flash-error hidden=""}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/fb3ef82b8a6fc0dc84391d68190c01cf02f1e142.svg){.octicon
+.octicon-alert}
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+.octicon-x}
+
+You can't perform that action at this time.
+:::
+
+::: {.js-stale-session-flash .flash .flash-warn .flash-banner hidden=""}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/fb3ef82b8a6fc0dc84391d68190c01cf02f1e142.svg){.octicon
+.octicon-alert} [You signed in with another tab or window. [Reload]() to
+refresh your session.]{.js-stale-session-flash-signed-in hidden=""} [You
+signed out in another tab or window. [Reload]() to refresh your
+session.]{.js-stale-session-flash-signed-out hidden=""}
+:::
+
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/b1a148b99baaa0f89cbafea7ad1594ecc218842d.svg){.octicon
+.octicon-x}
+
+::: {.octocat-spinner .my-6 .js-details-dialog-spinner}
+:::
+
+::: {.Popover .js-hovercard-content .position-absolute style="display: none; outline: none;" tabindex="0"}
+::: {.Popover-message .Popover-message--bottom-left .Popover-message--large .Box .color-shadow-large style="width:360px;"}
+:::
+:::
+
+::: {.zeroclipboard-container .position-absolute .right-0 .top-0}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/2ec3e32fb7f9fc1a81ea8ff488b3d480bd572cd8.svg){.octicon
+.octicon-copy .js-clipboard-copy-icon .m-2}
+![](vertopal_c1308b15e43744389233076cfa7d6cd1/3a9fa2bb9c11ed0202fe16a046089bdcb0564edc.svg){.octicon
+.octicon-check .js-clipboard-check-icon .color-fg-success .d-none .m-2}
+:::
+:::
+
+::: {#js-global-screen-reader-notice .sr-only aria-live="polite"}
+:::
